@@ -4,7 +4,7 @@
 
 - 網址：https://web11.subsidyking.tw/
 - 主題：北部縣市政策與地方新聞
-- 更新：2026-10-24（每日自動更新）
+- 更新：2026-10-25（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
@@ -13,27 +13,27 @@
 - 2026-10-24 王貫英先生紀念圖書館 11月「週六童樂會-兒童影片欣賞」：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=3DD744AF77E00471
 - 2026-10-24 本府活動-銀髮族3C講座─初階課程：LINE 實用技巧輕鬆上手：https://doit.gov.taipei/News_Content.aspx?n=A959DD533C5D9FD8&sms=9D72E82EC16F3E64&s=A8BF050DD315E787
 - 2026-10-24 薔琵颱風風勢增強 小6路等16條公車路線自18:30起停駛：https://eoc.gov.taipei/News/Detail/1604
-- 2026-10-23 因應薔琵颱風來襲 10月24日臺北捷運系統營運速報：https://eoc.gov.taipei/News/Detail/1605?MenuId=51
-- 2026-10-23 主持薔琵颱風工作會報 蔣萬安：嚴防強風豪雨、確保市民安全 全力投入災後復原：https://www.gov.taipei/News_Content.aspx?n=2044902FC839D045&sms=72544237BBE4C5F6&s=A6F6D14304EBDF35
-- 2026-10-23 本府消息-因應薔琵來襲10月24日北市聯醫各院區及附設院外門診醫療服務措施：https://doit.gov.taipei/News_Content.aspx?n=E3D88B653EACBF6E&sms=78D644F2755ACCAA&s=BFC605F6929C048D
-- 2026-10-23 聯醫和平婦幼院區 (婦幼) - 薔琵颱風來襲 ,10月24日(六) 停診公告：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=C043B7C0B35689FB
-- 2026-10-23 公告～颱風來襲因應臺北市政府宣布停班停課115年10月24日暫停辦理五全里社區篩檢及六合里社區設站疫苗接種：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=C3207B124B322B01
-- 2026-10-23 臺北自來水事業處直潭壩 10月23日21時00分 發布「水庫放水警戒」細胞廣播：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=502FFDC7D380817A
-- 2026-10-23 聯醫林森中醫昆明院區 - 115年10月24日(六)薔琵颱風開診情形公告：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=4EF6F236AC66D612
-- 2026-10-23 聯醫和平婦幼院區 (和平) - 薔琵颱風來襲 ,10月24日停診公告：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=0E7ECAED5E58F3BD
-- 2026-10-23 【115年桃園市民聯合婚禮延期公告】：https://cab.tycg.gov.tw/News_Content.aspx?n=7802&s=1919144
-- 2026-10-23 本府消息-聯醫和平婦幼院區(婦幼) - 薔琵颱風來襲,10月24日(六) 停診公告：https://doit.gov.taipei/News_Content.aspx?n=E3D88B653EACBF6E&sms=78D644F2755ACCAA&s=C043B7C0B35689FB
-- 2026-10-23 新北 24日(週六)中午過後加班收運垃圾 環保局整備人力機具協助清理家園 籲外出倒垃圾注意安全：https://www.epd.ntpc.gov.tw/Announcement/fn?PageType=1&id=288b6eda-8334-456e-ac30-0c995778275f
-- 2026-10-23 因應蔷琵颱風里長會勘協調修剪內湖金湖路200號、內湖路一段737巷91號樹木：https://pkl.gov.taipei/News_Content.aspx?n=43E05059FCC72525&sms=72544237BBE4C5F6&s=C017D57C846BC95C
-- 2026-10-23 公益出租人資格認定：https://udd.gov.taipei/QA/events/eg4jnku-6554
-- 2026-10-23 受薔琵颱風影響 臺北捷運系統營運速報(17:10) 文湖線及高運量高架平面路段10月23日18時起暫停營運：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=649A1A69E7BC170D
-- 2026-10-23 薔琵肆虐毀路樹 北市府動員冒雨搶災 迅速排除狀況：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=F0883ED7F19396AE
-- 2026-10-23 115年下期使用牌照稅繳納進入倒數！提醒車主把握期限完稅。：https://tytax.tycg.gov.tw/News_Content.aspx?n=4436&s=1916394
-- 2026-10-23 因應蔷琵颱風 木柵公園福安宮旁榕樹樹冠側偏易傾倒，華興里里長會勘協調修剪 已於115年10月23日完成：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=A9608B9E6BDA09B0
-- 2026-10-23 因應薔琵颱風來襲「臺北市老宅延壽機能復新計畫」中正區政策宣導說明會公告消息：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&s=AC1F0BC975481416
-- 2026-10-23 因應蔷琵颱風公園處加固大業路、忠誠路、士東路共5株樹木：https://pkl.gov.taipei/News_Content.aspx?n=43E05059FCC72525&sms=72544237BBE4C5F6&s=7FE3E626205B3E07
-- 2026-10-23 因應「薔琵」颱風來襲！ 雲門《十三聲》艋舺戶外公演延期至10/25演出：https://pkl.gov.taipei/News_Content.aspx?n=43E05059FCC72525&sms=72544237BBE4C5F6&s=E7929BFB571C082E
-- 2026-10-23 薔琵颱風襲台，請大家做好防颱準備，也請配合里長與警消同仁今日（10/23）的撤離動作：https://www.fuxing.tycg.gov.tw/News_Content.aspx?n=5708&s=1918852
+- 2026-10-24 市府新聞稿-臺北市115年10月25日恢復正常上班上課，請民眾於當日上午8時前將車輛駛離校園：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=308B5BFB390423A6
+- 2026-10-24 市長新聞稿專區-主持薔琵颱風工作會報蔣萬安：轉為災後復原中心加速恢復市容及市民正常生活：https://www.gov.taipei/News_Content.aspx?n=2044902FC839D045&sms=72544237BBE4C5F6&s=E23C99CB266A3ACC
+- 2026-10-24 市府新聞稿-薔琵颱風遠離臺北市公共運輸系統10月25日恢復營運：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=66685C8B7D0D3C29
+- 2026-10-24 澄清專區-樹木維護修剪工程按項目難易度記點網上未細究內容錯誤解讀：https://pkl.gov.taipei/News_Content.aspx?n=14493FEEBE1A35B3&sms=72544237BBE4C5F6&s=F82B0DC2AE1AEF29
+- 2026-10-24 請問民眾檢舉影片開立罰單時有無經過檢測？我的意思是說今天你們現在當然是沒有問題，因為你們就看的影片就直接開單了，我的意思是說要讓民眾從口袋裏頭掏錢繳罰單的時候，這樣子的一個重要性，那你們有沒有徵詢那個給影片的人的手機、行車記錄器或其他的：https://www.hsinchu.gov.tw/News_Content.aspx?n=3653&s=344411
+- 2026-10-24 本府消息-【2026臺北客家義民嘉年華】場地更換及流程更改公告：https://doit.gov.taipei/News_Content.aspx?n=E3D88B653EACBF6E&sms=78D644F2755ACCAA&s=1720137AD7941EDD
+- 2026-10-24 【2026臺北客家義民嘉年華】場地更換及流程更改公告：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=1720137AD7941EDD
+- 2026-10-24 臺北捷運10月25日全線正常營運 把握連假 搭捷運輕鬆出遊：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=12EB36F40C8AE583
+- 2026-10-24 樹木維護修剪工程按項目難易度記點 網上未細究內容 錯誤解讀：https://www.gov.taipei/News_Content.aspx?n=74806083EBDF5A03&sms=72544237BBE4C5F6&s=F82B0DC2AE1AEF29
+- 2026-10-24 北市今(24)日17時起開啟淡水河5-1(國順)及淡6(敦煌)疏散門：https://eoc.gov.taipei/News/Detail/1618
+- 2026-10-24 「2026-2027桃園城市紀錄片徵選暨培訓計畫」延長徵件！ 收件至11月2日，創作獎助金與豐富師資等你來提案！：https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1916453
+- 2026-10-24 2026閩南傳統藝術巡演—蘭陽戲劇團《錯配姻緣》 10月26日暖心登場！：https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1916294
+- 2026-10-24 北捷遊憩公司三場館10月25日恢復正常營運 邀民眾把握連假共度歡樂時光：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=C8937909EAE98E15
+- 2026-10-24 「2026臺北客家義民嘉年華」採訪通知：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=F8B2A291D8D13053
+- 2026-10-24 薔琵颱風遠離 臺北市公共運輸系統10月25日恢復營運：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=66685C8B7D0D3C29
+- 2026-10-24 《勞咖會客室》帶您了解營造業工安科技：https://eso.gov.taipei/News_Content.aspx?n=CA7EE51850241773&sms=72544237BBE4C5F6&s=3977333F6B2DCC9A
+- 2026-10-24 YouBike自明(25)日6時起、共享機車0時起陸續恢復營運：https://dot.gov.taipei/News_Content.aspx?n=D739A9F6B5C0AB95&sms=72544237BBE4C5F6&s=A3056818BCA2E94A
+- 2026-10-24 薔琵颱風逐漸遠離 10月24日臺北捷運系統營運速報(12:00)：https://eoc.gov.taipei/News/Detail/1615?MenuId=51
+- 2026-10-24 本府消息-《勞咖會客室》帶您了解營造業工安科技：https://doit.gov.taipei/News_Content.aspx?n=E3D88B653EACBF6E&sms=78D644F2755ACCAA&s=48CEC7B801784DC7
+- 2026-10-24 風雨中暖心伸援！內湖警助80歲婦人送醫：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=02D85CB48A53EFB2
+- 2026-10-24 市府新聞稿-蔣萬安視察災後復原進度慰勞第一線執勤同仁結合公私量能加速市容恢復：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=AD0DA26949D98B3B
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
