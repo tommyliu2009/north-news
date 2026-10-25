@@ -4,36 +4,36 @@
 
 - 網址：https://web11.subsidyking.tw/
 - 主題：北部縣市政策與地方新聞
-- 更新：2026-10-25（每日自動更新）
+- 更新：2026-10-26（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-10-24 銀髮族3C講座─初階課程：LINE 實用技巧輕鬆上手：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=A8BF050DD315E787
-- 2026-10-24 王貫英先生紀念圖書館 11月「週六童樂會-兒童影片欣賞」：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=3DD744AF77E00471
-- 2026-10-24 本府活動-銀髮族3C講座─初階課程：LINE 實用技巧輕鬆上手：https://doit.gov.taipei/News_Content.aspx?n=A959DD533C5D9FD8&sms=9D72E82EC16F3E64&s=A8BF050DD315E787
-- 2026-10-24 薔琵颱風風勢增強 小6路等16條公車路線自18:30起停駛：https://eoc.gov.taipei/News/Detail/1604
-- 2026-10-24 市府新聞稿-臺北市115年10月25日恢復正常上班上課，請民眾於當日上午8時前將車輛駛離校園：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=308B5BFB390423A6
-- 2026-10-24 市長新聞稿專區-主持薔琵颱風工作會報蔣萬安：轉為災後復原中心加速恢復市容及市民正常生活：https://www.gov.taipei/News_Content.aspx?n=2044902FC839D045&sms=72544237BBE4C5F6&s=E23C99CB266A3ACC
-- 2026-10-24 市府新聞稿-薔琵颱風遠離臺北市公共運輸系統10月25日恢復營運：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=66685C8B7D0D3C29
-- 2026-10-24 澄清專區-樹木維護修剪工程按項目難易度記點網上未細究內容錯誤解讀：https://pkl.gov.taipei/News_Content.aspx?n=14493FEEBE1A35B3&sms=72544237BBE4C5F6&s=F82B0DC2AE1AEF29
-- 2026-10-24 請問民眾檢舉影片開立罰單時有無經過檢測？我的意思是說今天你們現在當然是沒有問題，因為你們就看的影片就直接開單了，我的意思是說要讓民眾從口袋裏頭掏錢繳罰單的時候，這樣子的一個重要性，那你們有沒有徵詢那個給影片的人的手機、行車記錄器或其他的：https://www.hsinchu.gov.tw/News_Content.aspx?n=3653&s=344411
-- 2026-10-24 本府消息-【2026臺北客家義民嘉年華】場地更換及流程更改公告：https://doit.gov.taipei/News_Content.aspx?n=E3D88B653EACBF6E&sms=78D644F2755ACCAA&s=1720137AD7941EDD
-- 2026-10-24 【2026臺北客家義民嘉年華】場地更換及流程更改公告：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=1720137AD7941EDD
-- 2026-10-24 臺北捷運10月25日全線正常營運 把握連假 搭捷運輕鬆出遊：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=12EB36F40C8AE583
-- 2026-10-24 樹木維護修剪工程按項目難易度記點 網上未細究內容 錯誤解讀：https://www.gov.taipei/News_Content.aspx?n=74806083EBDF5A03&sms=72544237BBE4C5F6&s=F82B0DC2AE1AEF29
-- 2026-10-24 北市今(24)日17時起開啟淡水河5-1(國順)及淡6(敦煌)疏散門：https://eoc.gov.taipei/News/Detail/1618
-- 2026-10-24 「2026-2027桃園城市紀錄片徵選暨培訓計畫」延長徵件！ 收件至11月2日，創作獎助金與豐富師資等你來提案！：https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1916453
-- 2026-10-24 2026閩南傳統藝術巡演—蘭陽戲劇團《錯配姻緣》 10月26日暖心登場！：https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1916294
-- 2026-10-24 北捷遊憩公司三場館10月25日恢復正常營運 邀民眾把握連假共度歡樂時光：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=C8937909EAE98E15
-- 2026-10-24 「2026臺北客家義民嘉年華」採訪通知：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=F8B2A291D8D13053
-- 2026-10-24 薔琵颱風遠離 臺北市公共運輸系統10月25日恢復營運：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=66685C8B7D0D3C29
-- 2026-10-24 《勞咖會客室》帶您了解營造業工安科技：https://eso.gov.taipei/News_Content.aspx?n=CA7EE51850241773&sms=72544237BBE4C5F6&s=3977333F6B2DCC9A
-- 2026-10-24 YouBike自明(25)日6時起、共享機車0時起陸續恢復營運：https://dot.gov.taipei/News_Content.aspx?n=D739A9F6B5C0AB95&sms=72544237BBE4C5F6&s=A3056818BCA2E94A
-- 2026-10-24 薔琵颱風逐漸遠離 10月24日臺北捷運系統營運速報(12:00)：https://eoc.gov.taipei/News/Detail/1615?MenuId=51
-- 2026-10-24 本府消息-《勞咖會客室》帶您了解營造業工安科技：https://doit.gov.taipei/News_Content.aspx?n=E3D88B653EACBF6E&sms=78D644F2755ACCAA&s=48CEC7B801784DC7
-- 2026-10-24 風雨中暖心伸援！內湖警助80歲婦人送醫：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=02D85CB48A53EFB2
-- 2026-10-24 市府新聞稿-蔣萬安視察災後復原進度慰勞第一線執勤同仁結合公私量能加速市容恢復：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=AD0DA26949D98B3B
+- 2026-10-26 柳鄉兒童圖書館「跟著青山王去旅行」閱讀推廣活動：https://eoc.gov.taipei/News/Detail/1623
+- 2026-10-26 [展覽][241藝術空間][SS藝術空間]《合相：Becoming Forest》戴嘉瑩攝影個展：https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&dataserno=202610150001&toolsflag=Y&mserno=201810310009
+- 2026-10-26 建成分館11月「雙連電影院」精選好片上映：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=EFE47E71B446382B
+- 2026-10-26 AI賦能親子閱讀全能王：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=50D9FF1485C483BF
+- 2026-10-25 2026新竹城市新聲歌唱大賽冠軍揭曉！高虹安市長鼓勵勇敢追夢 讓好聲音被世界聽見：https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=a3a9e10e-f38c-40ce-911a-842effa46a8f
+- 2026-10-25 115年上半年度板新給水廠及石門水庫水質水量保護區家戶電費補助辦理進度說明：https://www.daxi.tycg.gov.tw/News_Content.aspx?n=7532&sms=12032&s=1911482
+- 2026-10-25 蔣萬安主持薔琵颱風災後復原會報 全力加速市容恢復 確保週二正常上班上課：https://eoc.gov.taipei/News/Detail/1621
+- 2026-10-25 嚴正駁斥有心人士以惡意圖卡攻擊！竹市府澄清：8號空橋具電燈、線路 相關單位亦傾聽民意刻正評估加裝監視器：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30207&serno=39520412-2398-4a5c-af22-d1d7f9b270e4
+- 2026-10-25 「2026臺北客家義民嘉年華」 重返臺北客家「竇」，遵循古禮隆重登場！：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=551546DCA635D526
+- 2026-10-25 街道展風情 步步皆風景 桃園人本更利行：https://pwb.tycg.gov.tw/News_Content.aspx?n=5035&s=1902350
+- 2026-10-25 市長新聞稿專區-蔣萬安主持薔琵颱風災後復原會報全力加速市容恢復確保週二正常上班上課：https://www.gov.taipei/News_Content.aspx?n=2044902FC839D045&sms=72544237BBE4C5F6&s=2287B1588B8D9E89
+- 2026-10-25 蔣萬安挑擔主祭臺北客家義民嘉年華 風雨無阻、敬意不減 傳承客家忠義精神：https://www.gov.taipei/News_Content.aspx?n=2044902FC839D045&sms=72544237BBE4C5F6&s=A7BDF799C7312643
+- 2026-10-25 智慧空品監測擴大應用守護 高虹安市長：從火場應變延伸日常環境治理：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=29e8f9cd-4e9a-4aa2-a6c0-9aa8f192e78f
+- 2026-10-25 市府新聞稿-蔣萬安主持薔琵颱風災後復原會報全力加速市容恢復確保週二正常上班上課：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=2287B1588B8D9E89
+- 2026-10-25 桃園近四年闢建198座特色公園 綠地增幅六都之冠 持續打造全齡共融休憩環境：https://news.tycg.gov.tw/News_Content.aspx?n=5016&s=1923232
+- 2026-10-25 晚秋漫遊風城！《新竹生活》10月號出刊 高虹安市長邀民眾探索城市文化與生活美學：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=4dde18d4-9241-4f50-ad70-a8c00075abb5
+- 2026-10-25 28位表演者勇敢登台展現生命力！高虹安市長：以藝術打破標籤、打造友善新竹：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=aa27225c-bc01-487d-be74-7de90f52b76e
+- 2026-10-25 臺北市社會住宅持續推進 完工成果展現市政延續力：https://udd.gov.taipei/events/fhqekzq-21420
+- 2026-10-25 活動報名-【新北青創中和藝文基地】手作課程:羊毛氈雪山盤：https://www.youth.ntpc.gov.tw/youth/ch/app/course/view?module=course&id=181&serno=e02e9e9f-be59-48f8-82d6-a1e4b45e022f
+- 2026-10-25 公告_ 中國建築經理股份有限公司擔任實施者擬具之「擬訂臺北市大安區復興段二小段368地號等7筆土地都市更新事業計畫及權利變換計畫案」訂於民國115年10月27日舉辦自辦公聽會：https://uro.gov.taipei/News_Content.aspx?n=1E1F7BC7180BF44C&sms=BCF7679E94E7EECC&s=38FFDE1338D4E32E
+- 2026-10-25 🧪 從分子奧秘到求職陷阱！竹市勞青處前進光華國中 練學生防詐辨識力：https://dep-labor.hccg.gov.tw/ch/home.jsp?id=7&parentpath=&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=202610140002&t=MunicipalNews&mserno=201603080002
+- 2026-10-25 訊息逗相報-114-115年臺北市帶狀疱疹疫苗補助接種試辦計畫：https://www.zshc.gov.taipei/News_Content.aspx?n=0CDBD7ECBD720B77&sms=8CD387B5D4F20B5C&s=C675B89B6BFD69E4
+- 2026-10-25 自115年8月1日起，臺北市補助50歲以上低收入戶及中低收入戶市民接種帶狀疱疹疫苗，請符合資格民眾攜帶身分證、健保卡及低收或中低收入戶證明至聯合醫院或十二區院外門診部接種。：https://www.zshc.gov.taipei/News_Content.aspx?n=1B4D9EC287B94C8E&sms=A2726AEF0B6CA2EA&s=62D63A66F364588B
+- 2026-10-25 【協助宣傳】「116年公務人員初等考試」報名訊息：https://www.tvdi.gov.taipei/News_Content.aspx?n=F2CD1228A2985237&sms=53001DDC86324B4E&s=274E32E832C7AEBA
+- 2026-10-25 自辦招生訊息-【甄試提醒】116年度上半年職能培育課程筆試範圍暨甄試行前提醒：https://www.tvdi.gov.taipei/News_Content.aspx?n=A0A874C46637EF1F&sms=78D644F2755ACCAA&s=FB24692DE76A70A9
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
