@@ -4,36 +4,36 @@
 
 - 網址：https://web11.subsidyking.tw/
 - 主題：北部縣市政策與地方新聞
-- 更新：2026-10-27（每日自動更新）
+- 更新：2026-10-28（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-28 「志願行動・幸福轉動」志工嘉年華暨NPO成果市集 熱情登場！：https://sab.tycg.gov.tw/News_Content.aspx?n=7303&s=1928245
+- 2026-10-28 吉利分館11月「唭哩岸電影院」：https://eoc.gov.taipei/News/Detail/1644
+- 2026-10-28 115年公費流感疫苗與新冠疫苗將於10月1日同步開打 基隆市衛生局呼籲符合資格民眾儘早接種：https://www.klchb.klcg.gov.tw/tw/klchb/1362-323005.html
+- 2026-10-28 活動主題館-南港分館「從『慢老』到『慢老2.0』：不是活得更老，而是延長健康中年!」講座：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=6790320CD9D1899E
+- 2026-10-28 活動主題館-西湖分館「借一本打動你的心」可外借主題書展，邀您一起探索閱讀的樂趣！：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=C9CDDB37A73481BA
+- 2026-10-28 活動主題館-大直分館11月假日電影院：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=8F2FA607B96DFFC8
+- 2026-10-28 活動主題館-景美分館11月Fun輕鬆電影院「友情萬歲」：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=823318D8A42452AD
+- 2026-10-28 內湖分館配合「115年地方公職人員選舉及全國性公民投票」選務作業需要，調整服務時間。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=42805488DDD562C0
+- 2026-10-28 市府新聞稿-北市圖每月一書講座─楊婷雅《小島職人：雞毛撢子、蹦火仔、粧佛師，那些屬於我們的臺灣故事》：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=A3E66D2A397E28CD
 - 2026-10-27 臺北市政府社會局老人福利科徵聘用專員2名：https://dosw.gov.taipei/News_Content.aspx?n=80C7D4753D325D9A&sms=842A26926D5B58DF&s=26EB6BE66A24CC8A
 - 2026-10-27 考選部訊息：116年公務人員初等考試，預定報名日期自115年10月27日至11月5日下午5時止受理報名，相關資訊請至考選部網站查詢。：https://dep-personnel.hccg.gov.tw/ch/home.jsp?id=28&parentpath=0,27&mcustomize=municipalnews_view.jsp&dataserno=202610130001&aplistdn=ou=municipalnews,ou=message,ou=ap_root,o=hccg,c=tw&toolsflag=Y&mserno=201601300196&t=MunicipalNews
 - 2026-10-27 「116年公務人員初等考試」報名訊息：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=203F1CFC5B389D3E
-- 2026-10-26 柳鄉兒童圖書館「跟著青山王去旅行」閱讀推廣活動：https://eoc.gov.taipei/News/Detail/1623
-- 2026-10-26 [展覽][241藝術空間][SS藝術空間]《合相：Becoming Forest》戴嘉瑩攝影個展：https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&dataserno=202610150001&toolsflag=Y&mserno=201810310009
-- 2026-10-26 建成分館11月「雙連電影院」精選好片上映：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=EFE47E71B446382B
-- 2026-10-26 AI賦能親子閱讀全能王：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=50D9FF1485C483BF
-- 2026-10-26 原力放送站 2026/10/26 (一)：https://tradio.gov.taipei/channel/MjE3MA/MjU2NjA2
-- 2026-10-26 網傳桃園明年全面實施垃圾專用袋 桃市府：假消息 無共識前一般戶不會上路：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=11&s=1925873
-- 2026-10-26 萌力全開！第18屆「天母搞什麼鬼萬聖節嘉年華」盛大登場！ 跨世代超萌IP「塔麻歌子」首度亮相全臺最嗨萬聖派對！：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=2D49E60BDB870194
-- 2026-10-26 2026桃園萬聖城演唱會熱鬧開唱！攜手超人氣IP Snoopy打造全台最萌萬聖節：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=7&s=1925619
-- 2026-10-26 北市雙冠王! 營利事業銷售額連4年成長創新高4年減債400億元達標：https://dof.gov.taipei/News_Content.aspx?n=133E08708C6AB0EA&s=0B9EA96AA4F01629&sms=72544237BBE4C5F6&utm_source=chatgpt.com
-- 2026-10-26 走過全球逾50座城市，回到創作原點！ 雲門舞集《十三聲》點亮全新艋舺公園，向家鄉致敬：https://culture.gov.taipei/News_Content.aspx?n=63F36AA6E434AD08&sms=78D644F2755ACCAA&s=B0C7AAA187909861
-- 2026-10-26 竹市勞工趣味競賽逾600人熱情參與！高虹安市長與勞工同樂 共創幸福友善城市：https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=05c0b80f-ee24-421e-b9cb-50753fbf7509
-- 2026-10-26 桃市退伍軍人協會慶祝榮民節 張市長肯定榮民公益貢獻、攜手守護長輩健康：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1925714
-- 2026-10-26 市長新聞稿專區-葫蘆寺祈安遶境起駕蔣萬安揭牌致謝捐贈第8輛救護車攜手守護市民安全：https://www.gov.taipei/News_Content.aspx?n=2044902FC839D045&sms=72544237BBE4C5F6&s=594847B2D2576309
-- 2026-10-26 市府新聞稿-葫蘆寺祈安遶境起駕蔣萬安揭牌致謝捐贈第8輛救護車攜手守護市民安全：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=594847B2D2576309
-- 2026-10-26 手機變掩護 竊賊利用手機「磁吸」行動電源順手牽羊 警方循線查緝到案：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=C896E2E479C60883
-- 2026-10-26 颱風前夕暖心助團圓 內湖警積極協助迷途婦人平安返家：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=F7007FD8C8AE0513
-- 2026-10-26 暗夜偷倒廚餘無所遁形 桃園環保局科技執法重罰中壢餐飲業者：https://tydep.tycg.gov.tw/News_Content.aspx?n=20082&s=1925618
-- 2026-10-26 薔琵颱風過境 環保局完成水質檢測 為市民飲用水安全把關：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=7&s=1925617
-- 2026-10-26 財團法人台北葫蘆寺力挺消防再捐第8輛救護車：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=260035F6CBD10DCF
-- 2026-10-26 市府新聞稿-走過全球逾50座城市，回到創作原點！ 雲門舞集《十三聲》點亮全新艋舺公園，向家鄉致敬：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=B0C7AAA187909861
-- 2026-10-26 流動的港口 世界的基隆 推廣計畫｜循環文創篇：https://klctb.klcg.gov.tw/News_Content.aspx?n=8756&s=18972
-- 2026-10-26 公告本市內湖區成功路2段456巷（成功路2段498巷至成功 路2段）路邊汽車停車格，自115年11月9日（星期一）9時 起納入收費管理。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=5053B86AB4A2C7FB
+- 2026-10-27 國家發展委員會檔案管理局訂於115年11月7日（星期六）上午10時至下午5時於國家檔案館舉辦「2026檔案月」啟動儀式暨時光同樂會：https://sahhr.e-land.gov.tw/News_Content.aspx?n=3810&sms=14357&s=411392
+- 2026-10-27 澄清專區-薔琵颱風吹倒北投公園榕樹主根系斷裂已無生機10/27移除現場將告示說明：https://pkl.gov.taipei/News_Content.aspx?n=14493FEEBE1A35B3&sms=72544237BBE4C5F6&s=8AA9F5B8D8639EAA
+- 2026-10-27 活動訊息-【活動已結束】內湖休閒運動公園，8月限定-免費環教活動解鎖都市淨水密碼：https://pwd.gov.taipei/News_Content.aspx?n=1E8085DB69373A96&sms=9D72E82EC16F3E64&s=119E9973E9772609
+- 2026-10-27 薔琵颱風吹倒北投公園榕樹 主根系斷裂已無生機 10/27移除 現場將告示說明：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=8AA9F5B8D8639EAA
+- 2026-10-27 即時新聞澄清-薔琵颱風吹倒北投公園榕樹主根系斷裂已無生機今日移除現場將告示說明：https://www.gov.taipei/News_Content.aspx?n=74806083EBDF5A03&sms=72544237BBE4C5F6&s=8AA9F5B8D8639EAA
+- 2026-10-27 士林分館「閱讀無垠：地球」SDGs與泰國文化系列活動：https://eoc.gov.taipei/News/Detail/1634?MenuId=51
+- 2026-10-27 2026 臺北市公共政策創意提案競賽｜決賽入圍名單公布通知：https://youth.gov.taipei/announcement/latest-announcement/2101c71e-df0a-450c-87b2-93342e4734ee
+- 2026-10-27 因應「2026臺北白晝之夜」活動，115年10月31日、11月1日國道客運配合改道：https://dot.gov.taipei/News_Content.aspx?n=D739A9F6B5C0AB95&sms=72544237BBE4C5F6&s=06EC94E0B6D90380
+- 2026-10-27 轉知「第五屆王育霖詩人檢察官台語詩徵文比賽」及「第五屆311台灣教師節電子賀卡設計比賽」，歡迎踴躍參加。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=3054E7DC671A7231
+- 2026-10-27 轉知「第7屆詹文聲台語薪傳賞」申請訊息，歡迎符合資格之教師踴躍申請。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=8A364F4FF8B8708A
+- 2026-10-27 2026後立體的水彩面相/從解構到邂逅 七人聯展：https://www.tapo.gov.taipei/News_Content.aspx?n=42BCF6467CA8FD19&sms=C9104E520DD5CC56&s=4C3FAF6288C9D248
+- 2026-10-27 從《臥虎藏龍》到《少年PI的奇幻漂流》：李安的空間展演與場面調度：https://www.tapo.gov.taipei/News_Content.aspx?n=42BCF6467CA8FD19&sms=C9104E520DD5CC56&s=8C0CC2BBB9580346
+- 2026-10-27 藝術行政的幕後魔法：https://www.tapo.gov.taipei/News_Content.aspx?n=42BCF6467CA8FD19&sms=C9104E520DD5CC56&s=7A717CE710255B3B
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
