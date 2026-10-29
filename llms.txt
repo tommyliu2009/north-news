@@ -4,36 +4,36 @@
 
 - 網址：https://web11.subsidyking.tw/
 - 主題：北部縣市政策與地方新聞
-- 更新：2026-10-29（每日自動更新）
+- 更新：2026-10-30（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-30 115A103-（116）基隆市中正、中山、信義及仁愛區下水道天然災害租賃機械及救災搶險工程（單價標）：https://www.klcg.gov.tw/tw/klcg1/3208-324124.html
+- 2026-10-30 招標資訊－115A099-義民里內零星工程：https://www.klcg.gov.tw/tw/klcg1/3208-324104.html
+- 2026-10-30 招標資訊－115A101-(116) 中山、中正、信義及仁愛區污水下水道零星管線維護及清疏工程(單價標)：https://www.klcg.gov.tw/tw/klcg1/3208-324123.html
+- 2026-10-30 招標資訊－115A108-(116)基隆市寬頻管道聯結及維護工程(單價標)：https://www.klcg.gov.tw/tw/klcg1/3208-324116.html
+- 2026-10-30 招標資訊－115B007-(116)河川管理工作巡防車輛租用：https://www.klcg.gov.tw/tw/klcg1/3208-324095.html
 - 2026-10-29 總館小小世界「咚咚！打開日文繪本之門」-日文故事時間，歡迎參加!：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=7117EA16AAFD71B2
 - 2026-10-29 新竹市116年模範勞工選拔自即日起受理推薦，截止日期至115年11月20日止(以郵戳為憑)：https://dep-labor.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=announcement_view.jsp&toolsflag=Y&dataserno=202610280005&t=Announcement&mserno=201601300053
 - 2026-10-29 藝文活動-總館小小世界「咚咚！打開日文繪本之門」-日文故事時間，歡迎參加!：https://tpml.gov.taipei/News_Content.aspx?n=3951678DEC0A8461&s=7117EA16AAFD71B2&sms=9D72E82EC16F3E64
-- 2026-10-28 「志願行動・幸福轉動」志工嘉年華暨NPO成果市集 熱情登場！：https://sab.tycg.gov.tw/News_Content.aspx?n=7303&s=1928245
-- 2026-10-28 吉利分館11月「唭哩岸電影院」：https://eoc.gov.taipei/News/Detail/1644
-- 2026-10-28 115年公費流感疫苗與新冠疫苗將於10月1日同步開打 基隆市衛生局呼籲符合資格民眾儘早接種：https://www.klchb.klcg.gov.tw/tw/klchb/1362-323005.html
-- 2026-10-28 活動主題館-南港分館「從『慢老』到『慢老2.0』：不是活得更老，而是延長健康中年!」講座：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=6790320CD9D1899E
-- 2026-10-28 活動主題館-西湖分館「借一本打動你的心」可外借主題書展，邀您一起探索閱讀的樂趣！：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=C9CDDB37A73481BA
-- 2026-10-28 活動主題館-大直分館11月假日電影院：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=8F2FA607B96DFFC8
-- 2026-10-28 活動主題館-景美分館11月Fun輕鬆電影院「友情萬歲」：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=823318D8A42452AD
-- 2026-10-28 內湖分館配合「115年地方公職人員選舉及全國性公民投票」選務作業需要，調整服務時間。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=42805488DDD562C0
-- 2026-10-28 市府新聞稿-北市圖每月一書講座─楊婷雅《小島職人：雞毛撢子、蹦火仔、粧佛師，那些屬於我們的臺灣故事》：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=A3E66D2A397E28CD
-- 2026-10-28 桃園影視補助協拍7部作品勇奪金鐘14獎！展現桃園多元影視場景與協拍實力：https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1931268
-- 2026-10-28 桃園市土地公文化館第二屆「土之影展」講述五個臺灣土地的故事首場放映「魔法阿媽」導演王小棣親自出席映後談動畫中的神鬼日常：https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1928213
-- 2026-10-28 桃園市側溝等排水設施115至116年防汛清疏開口契約：https://tyoem.tycg.gov.tw/News_Content.aspx?n=21954&s=1931100
-- 2026-10-28 檢送本市「115年底私有出租耕地租約期滿續約」宣導海報、影片：https://www.daxi.tycg.gov.tw/News_Content.aspx?n=7532&s=1931105
-- 2026-10-28 檢送「漁電共生案場查核實務與經驗交流工作坊」簡章1份：https://www.daxi.tycg.gov.tw/News_Content.aspx?n=7532&s=1931059
-- 2026-10-28 公告訂於民國115年11月26日舉辦京和建設股份有限公司擔任實施者擬具之「擬訂新竹市東區南門段四小段287地號等19筆土地都市更新事業計畫及權利變換計畫案」公辦公聽會。：https://www.hccg.gov.tw/hccg/app/data/view?module=announcement&id=30124&serno=202610280004
-- 2026-10-28 為配合辦理「2026新竹市立棒球場50周年交流賽」活動，將於115年11月1日5時至11月2日5時止實施交通管制，請用路人配合改道。：https://www.hccg.gov.tw/hccg/app/data/view?module=announcement&id=30124&serno=5f2f6571-d3a6-4040-bd68-497a7c23c1f1
-- 2026-10-28 「2026新北油飯節」網路票選活動- 驗證身份：https://www.vote.ntpc.gov.tw/verify/251
-- 2026-10-28 職涯不設限，點亮新視野北市職能學院多元職訓成果展：https://eso.gov.taipei/News_Content.aspx?n=CA7EE51850241773&sms=72544237BBE4C5F6&s=9F7E43125580C396
-- 2026-10-28 公告-本市「115年底私有出租耕地租約期滿續約」宣導，以利租佃雙方知悉相關申請事項。：https://www.dayuan.tycg.gov.tw/News_Content.aspx?n=7621&s=1931109
-- 2026-10-28 聯醫林森中醫昆明院區-昆明大樓因配合整修工程，自11月15日起至12月14日止，暫時封閉醫院正門，請由醫院側門進出，謝謝：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=5D8866AFAA706ACB
-- 2026-10-28 桃園、成田締盟10週年紀念畫展開幕 張市長：深化臺日交流、延續城市友好情誼：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1931145
-- 2026-10-28 雨聲國小-日本妖怪大鬧雨聲圖書館 閱讀闖關探索奇幻異國文化：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=A42EF760EA6D5622
+- 2026-10-29 從在地創作到國際視野 2026桃園傑團期末交流深化藝術發展：https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1935314
+- 2026-10-29 115年度優良青年志工名單出爐🎉：https://youth.tycg.gov.tw/News_Content.aspx?n=5622&s=1933458
+- 2026-10-29 竹市家長會長齊聚授證！高虹安市長攜手家長共築「新竹好學2.0」教育願景：https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=74fdc2a0-1439-4b71-928a-53081d179c4f
+- 2026-10-29 全民電子競技運動聯賽：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=890205A57E5FDDA0
+- 2026-10-29 公告取得本區澤仁段889、3-2、931、1435-1地號及詩朗段451-1地號等5筆原住民保留地所有權名單1份：https://www.fuxing.tycg.gov.tw/News_Content.aspx?n=7106&s=1935306
+- 2026-10-29 轉知桃園市政府家庭教育中心辦理「115年新婚伴侶實體工作坊活動」：https://www.daxi.tycg.gov.tw/News_Content.aspx?n=7532&s=1933486
+- 2026-10-29 一般公告-【轉知】國立臺灣師範大學116學年度教育學系碩士在職專班招生資訊：https://www.doe.gov.taipei/News_Content.aspx?n=9AA0CC873BD001A2&s=EBD9316B516371B9
+- 2026-10-29 一般公告-【賽事資訊】第一屆台灣智力運動九路圍棋大賽：https://www.doe.gov.taipei/News_Content.aspx?n=9AA0CC873BD001A2&s=C95C8B5CC9518BC8
+- 2026-10-29 私立喬治高職-國際教育接待 韓國完州郡青少年文化團 也愛臺灣小籠包：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=C0BD61CDE389C5C6
+- 2026-10-29 2026災後危險建物緊急評估作業人員動員T-DEEP演練—建物安全生命保：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=54E4083BEB42810A
+- 2026-10-29 私立育達高中-人氣男團Ozone突襲育達高中 Lulu同框表藝科熱舞 勉勵學子永不放棄：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=BFB5564240587C72
+- 2026-10-29 中壢五號中園社宅動土 桃市府雙軌推動住宅政策、全方位滿足多元居住需求：https://news.tycg.gov.tw/News_Content.aspx?n=5016&s=1935361
+- 2026-10-29 116年度「教育部表揚推展家庭教育績優人員暨團體實施計畫」：https://ipb.tycg.gov.tw/News_Content.aspx?n=10988&s=1935233
+- 2026-10-29 桃園市政府家庭教育中心「115年新婚伴侶實體工作坊活動」海報1份：https://ipb.tycg.gov.tw/News_Content.aspx?n=10988&s=1933514
+- 2026-10-29 桃園市政府家庭教育中心辦理「115年新婚伴侶實體工作坊活動：https://www.pingzhen.tycg.gov.tw/News_Content.aspx?n=5613&s=1933482
+- 2026-10-29 活動主題館-龍安民眾閱覽室「115年萬聖節-扭出你的鬼問題」閱讀推廣活動：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=836EE3114844B812
+- 2026-10-29 藝文活動-龍安民眾閱覽室「115年萬聖節-扭出你的鬼問題」閱讀推廣活動：https://tpml.gov.taipei/News_Content.aspx?n=3951678DEC0A8461&sms=9D72E82EC16F3E64&s=836EE3114844B812
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
