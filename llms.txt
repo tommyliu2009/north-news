@@ -4,36 +4,36 @@
 
 - 網址：https://web11.subsidyking.tw/
 - 主題：北部縣市政策與地方新聞
-- 更新：2026-10-31（每日自動更新）
+- 更新：2026-11-01（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-10-31 活動主題館-恆安民眾閱覽室「來恆安，遇見夜卡西—2026臺北白晝之夜」響應計畫展：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=DB1A664B83B43B9E
-- 2026-10-31 社教藝文-恆安民眾閱覽室「來恆安，遇見夜卡西—2026臺北白晝之夜」響應計畫展：https://tpml.gov.taipei/News_Content.aspx?n=A1F57F21C8E92351&sms=9D72E82EC16F3E64&s=DB1A664B83B43B9E
-- 2026-10-31 「讓光映在心上：影劇裡的情緒缺口與療癒時刻」：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=F910C0EB47F63CF3
-- 2026-10-31 活動報名-【新北青創中和藝文基地】藝術市集：https://www.youth.ntpc.gov.tw/youth/ch/app/course/view?module=course&id=181&serno=94a3dae9-acf0-42f4-b97a-62e93d7b52fb
-- 2026-10-30 115A103-（116）基隆市中正、中山、信義及仁愛區下水道天然災害租賃機械及救災搶險工程（單價標）：https://www.klcg.gov.tw/tw/klcg1/3208-324124.html
-- 2026-10-30 招標資訊－115A099-義民里內零星工程：https://www.klcg.gov.tw/tw/klcg1/3208-324104.html
-- 2026-10-30 招標資訊－115A101-(116) 中山、中正、信義及仁愛區污水下水道零星管線維護及清疏工程(單價標)：https://www.klcg.gov.tw/tw/klcg1/3208-324123.html
-- 2026-10-30 招標資訊－115A108-(116)基隆市寬頻管道聯結及維護工程(單價標)：https://www.klcg.gov.tw/tw/klcg1/3208-324116.html
-- 2026-10-30 招標資訊－115B007-(116)河川管理工作巡防車輛租用：https://www.klcg.gov.tw/tw/klcg1/3208-324095.html
-- 2026-10-30 115年地價稅於11月1日開徵，地價稅以8月31日地政機關土地登記簿所載之所有權人為納稅義務人，並採總歸戶合併計算稅額，所以每位土地所有權人在臺北市不論有幾筆土地都只會收到一張地價稅繳款書，請於11月30日前運用各項繳稅管道如期繳納。如遺失或未收：https://whdo.gov.taipei/News_Content.aspx?n=16B2CB1B675D53DF&sms=EF042250E10B7F6C&s=27F0121D4AE45A3B
-- 2026-10-30 本府消息-116年度「300億元中央擴大租金補貼」受理申請公告：https://doit.gov.taipei/News_Content.aspx?n=E3D88B653EACBF6E&sms=78D644F2755ACCAA&s=E56D6C9F0D9DB5B7
-- 2026-10-30 轉知115年11月24日至26日夜間22時至翌日6時為辦理鐵路宜蘭線大里～宜蘭間外大溪路、東港路平交道整修，需封鎖公路：https://toucheng.e-land.gov.tw/News_Content.aspx?n=7036&s=411632
-- 2026-10-30 流動的港口 世界的基隆 推廣計畫｜在地好味篇：https://klctb.klcg.gov.tw/News_Content.aspx?n=8756&s=19013
-- 2026-10-30 觀音區樹林公園運動天幕(開工典禮)：https://www.guanyin.tycg.gov.tw/News_Photo_Content.aspx?n=6887&s=1937481
-- 2026-10-30 【場域募集】桃園市青年民間共享場域創生進駐獎勵試辦計畫｜🏠邀請中壢舊城區房東一起活化閒置店面！：https://youth.tycg.gov.tw/News_Content.aspx?n=5622&s=1937789
-- 2026-10-30 國立彰化生活美學館辦理「打開地方未來式：百大文化基地交流分享會議Ⅱ」資訊：https://www.bade.tycg.gov.tw/News_Content.aspx?n=5601&s=1937761
-- 2026-10-30 教育部青年發展署辦理「115年青年百億海外圓夢基金計畫」成果展，歡迎踴躍蒞臨參觀：https://ipb.tycg.gov.tw/News_Content.aspx?n=10988&s=1937513
-- 2026-10-30 大溪埔頂公園人行環境改善獲金品獎 張善政：串聯學校、公園與社區，打造15分鐘步行生活圈：https://oram.tycg.gov.tw/News_Content.aspx?n=9204&s=1937666
-- 2026-10-30 市立醫院交通建設齊推進 長興路地下化年底啟動：https://oram.tycg.gov.tw/News_Content.aspx?n=9204&s=1937677
-- 2026-10-30 「2026無限影展」盛大開幕 《無名指》導演孔令政來臺首映 從一根手指看見照顧與愛：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=47AEA2E4F62EC139
-- 2026-10-30 艋舺青山宮遶境11月28日登場 萬華警召開約制座談會強化治安維護：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=DA4DD0DFE96918FB
-- 2026-10-30 115年11月地政講堂課程預告－從最新實務判決看租賃糾紛之成因與解決：https://epaper.land.gov.taipei/Item/Detail/115%E5%B9%B411%E6%9C%88%E5%9C%B0%E6%94%BF%E8%AC%9B%E5%A0%82%E8%AA%B2%E7%A8%8B%E9%A0%90%E5%91%8A%EF%BC%8D%E5%BE%9E%E6%9C%80%E6%96%B0%E5%AF%A6
-- 2026-10-30 仁愛國小-怪獸現身圖書館！仁愛國小萬聖節閱讀大冒險：https://www.doe.gov.taipei/News_Content.aspx?n=B3DDF0458F0FFC11&sms=72544237BBE4C5F6&s=EEB866E93F100D0A
-- 2026-10-30 建安國小-建安國小家長會倡議尊重教師離線權 打造親師生共好新默契：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=A13D707866BFCE35
-- 2026-10-30 雙溪國小-雙溪國小榮獲教育部「戶外教育成效卓著獎」：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=A2BF593F5A52EC31
+- 2026-11-01 總館「走出自己的朝聖之路」主題書展：https://eoc.gov.taipei/News/Detail/1662
+- 2026-11-01 三興分館週日電影日 (11月)：https://eoc.gov.taipei/News/Detail/1673
+- 2026-11-01 西園分館「秋冬 CHOOSE ONE!」閱讀生活趣味票選：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=C2EDA07B7F7AF1BA
+- 2026-11-01 北市圖書車11月漫讀記 漫遊松菸探索原創基地：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=D0ADD4ACB50E5CD3
+- 2026-11-01 木柵分館11月午後拾光電影院：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=50E7E2B4062CE121
+- 2026-11-01 木柵分館11月兒童電影院：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=3FB8F929BEEF4F7C
+- 2026-11-01 力行分館—英美影視作品原著故事書展：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=3E98C939A5FC7EB7
+- 2026-11-01 萬華分館11月假日電影院，每週日下午帶您輕鬆看電影！：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=3BB8C907BCC9EF65
+- 2026-11-01 內湖分館「內湖賓果季：影視閱讀集章轉好禮」，看影片解任務好禮拿不完！：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=AD72D68B71CF02FF
+- 2026-11-01 北投分館三國演義異常調查司書｜化身調查員，探索圖書館的秘密：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=717095AD399B65C9
+- 2026-11-01 東湖分館「說話的藝術」主題書展：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=8F7A6B6975DB6FE4
+- 2026-11-01 文山分館「文山親子電影院」12月節目表：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=9901C80DFD710E11
+- 2026-11-01 六合分館：「閱讀騎遇記」主題書展（11月心靈雞湯）：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=EF8BCB6A4FC33705
+- 2026-11-01 【協助宣傳】行政院115年11月份公共服務政策溝通短片：https://www.tvdi.gov.taipei/News_Content.aspx?n=F2CD1228A2985237&sms=53001DDC86324B4E&s=A717771E5C56F7F1
+- 2026-11-01 活動主題館-內湖分館「內湖賓果季：影視閱讀集章轉好禮」，看影片解任務好禮拿不完！：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=AD72D68B71CF02FF
+- 2026-11-01 臺北市政府消防局115年11月防災宣導-防範一氧化碳中毒：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=F9290D86323CEA69
+- 2026-11-01 活動主題館-北投分館三國演義異常調查司書｜化身調查員，探索圖書館的秘密：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=717095AD399B65C9
+- 2026-11-01 王貫英先生紀念圖書館配合「臺北市第9屆市長、第15屆議員及第15屆里長選舉」選務作業需要，調整部分區域及服務時間。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=9CBA21E0988D4304
+- 2026-11-01 啟明分館配合「115年地方公職人員選舉」選務作業需要，調整服務時間。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=51DAF6801B3A8125
+- 2026-11-01 廣慈分館配合「115年地方公職人員選舉及全國性公民投票」選務作業需要，調整服務時間。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=BFFCCC6F19D10582
+- 2026-11-01 公告本市115年度「北投6號行義公園整建工程」範圍內有(無)主墳墓遷葬事項：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=C14318731D66DA2A
+- 2026-11-01 活動主題館-北市圖書車11月漫讀記漫遊松菸探索原創基地：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=D0ADD4ACB50E5CD3
+- 2026-11-01 主題活動-北市圖書車11月漫讀記漫遊松菸探索原創基地：https://tpml.gov.taipei/News_Content.aspx?n=057F7CE33AEF867C&sms=9D72E82EC16F3E64&s=D0ADD4ACB50E5CD3
+- 2026-11-01 2026 TAxT桃園科技藝術節盛大開幕 蘇俊賓：運用科技拓展創作空間 深化人文情感與生命對話：https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1940794
+- 2026-11-01 新聞發佈-臺北市持續推動河濱綠化提升河岸環境品質：https://pwd.gov.taipei/News_Content.aspx?n=5C3C29C78077C93E&sms=72544237BBE4C5F6&s=7461593CC164CDF8
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
