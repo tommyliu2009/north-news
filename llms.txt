@@ -4,11 +4,14 @@
 
 - 網址：https://web11.subsidyking.tw/
 - 主題：北部縣市政策與地方新聞
-- 更新：2026-11-01（每日自動更新）
+- 更新：2026-11-02（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-02 活動主題館-民生分館「週日來FUN電」歡迎蒞臨觀賞：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=7AFFC299F7E49561
+- 2026-11-02 一筆一畫寫風華 虎茅庄書會第八次聯展即將登場登場：https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1943353
+- 2026-11-02 永春分館配合「115年地方公職人員選舉及全國性公民投票」選務作業需要，調整自修室開放時間。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=A1ED499E7D303433
 - 2026-11-01 總館「走出自己的朝聖之路」主題書展：https://eoc.gov.taipei/News/Detail/1662
 - 2026-11-01 三興分館週日電影日 (11月)：https://eoc.gov.taipei/News/Detail/1673
 - 2026-11-01 西園分館「秋冬 CHOOSE ONE!」閱讀生活趣味票選：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=C2EDA07B7F7AF1BA
@@ -31,9 +34,6 @@
 - 2026-11-01 廣慈分館配合「115年地方公職人員選舉及全國性公民投票」選務作業需要，調整服務時間。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=BFFCCC6F19D10582
 - 2026-11-01 公告本市115年度「北投6號行義公園整建工程」範圍內有(無)主墳墓遷葬事項：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=C14318731D66DA2A
 - 2026-11-01 活動主題館-北市圖書車11月漫讀記漫遊松菸探索原創基地：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=D0ADD4ACB50E5CD3
-- 2026-11-01 主題活動-北市圖書車11月漫讀記漫遊松菸探索原創基地：https://tpml.gov.taipei/News_Content.aspx?n=057F7CE33AEF867C&sms=9D72E82EC16F3E64&s=D0ADD4ACB50E5CD3
-- 2026-11-01 2026 TAxT桃園科技藝術節盛大開幕 蘇俊賓：運用科技拓展創作空間 深化人文情感與生命對話：https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1940794
-- 2026-11-01 新聞發佈-臺北市持續推動河濱綠化提升河岸環境品質：https://pwd.gov.taipei/News_Content.aspx?n=5C3C29C78077C93E&sms=72544237BBE4C5F6&s=7461593CC164CDF8
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
