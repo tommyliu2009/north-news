@@ -4,11 +4,13 @@
 
 - 網址：https://web11.subsidyking.tw/
 - 主題：北部縣市政策與地方新聞
-- 更新：2026-11-04（每日自動更新）
+- 更新：2026-11-05（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-05 福星公園受保榕樹風災倒伏 樹保委員現勘確認罹患褐根病 顧慮民眾安全 11/5移除：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=883285CD79BB2E3B
+- 2026-11-05 地價稅納稅義務人是誰?：https://www.klcg.gov.tw/tw/klcg1/3168-324160.html
 - 2026-11-04 澄清專區-松山路半倒榕樹仍有生機11/3移植至松德路安全島兼顧公共安全與綠資源維護：https://pkl.gov.taipei/News_Content.aspx?n=14493FEEBE1A35B3&sms=72544237BBE4C5F6&s=92874ABE00BFE4E6
 - 2026-11-04 2026 閩南傳統藝術巡演-明華園天字戲劇團《八仙傳奇》 10/25熱鬧登場：https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1916359
 - 2026-11-04 農業部桃園區農業改良場訂於本(115)年11月5日(星期四)辦理「115年循環農業人才培育工作坊-農業剩餘物質循環及應用(堆肥)講習」，歡迎農民團體、青農、合作社等相關人員踴躍報名參加，請查照。：https://hengshan.hsinchu.gov.tw/News_Content.aspx?n=1483&s=117161
@@ -18,22 +20,20 @@
 - 2026-11-04 招標資訊－115A078-115年度東信國小育賢樓老舊廁所整修工程：https://www.klcg.gov.tw/tw/klcg1/3208-324315.html
 - 2026-11-04 招標資訊－115A105-115年度中山區德和、德安及西定里民和動中心整修工程：https://www.klcg.gov.tw/tw/klcg1/3208-324317.html
 - 2026-11-04 115.9.10海棠牙醫案起訴書範例：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30535&serno=ad494513-e820-476a-9a37-53d7ae4adaab
-- 2026-11-03 質量並重北市府112年至今植樹4.2萬株私有建案植樹量只佔總數3成：https://pkl.gov.taipei/News_Content.aspx?n=43E05059FCC72525&sms=72544237BBE4C5F6&s=53BDA5E10F47B0D0
-- 2026-11-03 東門市場茄苳樹移除案 已對廠商採取罰鍰、求償、停權等處分 公園處相關人員究責 分別予以記過及申誡：https://pkl.gov.taipei/News_Content.aspx?n=43E05059FCC72525&sms=72544237BBE4C5F6&s=DB15C4F48A65E47D
-- 2026-11-03 沒有土地，為什麼要繳稅？：https://www.klcg.gov.tw/tw/klcg1/3168-324149.html
-- 2026-11-03 作家與讀者有約講座《永清浴室》：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=9956BC02414E0A80
-- 2026-11-03 115.7.21明好企業有限公司提供「農耕牌濁水炊粉」等經新竹市衛生局命下架回收產品退貨管道及諮詢專線：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30535&serno=4ab5d361-8baf-496c-8179-7ce7137ec711
-- 2026-11-03 115年11月各機關辦理統計調查一覽表：https://www.klcg.gov.tw/tw/accounting/2607-324337.html
-- 2026-11-03 《世界入港：基隆進行式》專書發表 融入跨局處及公私協力成果 展現流動港口與全球視野：https://www.klcg.gov.tw/tw/klcg1/3168-324331.html
-- 2026-11-03 本所協助董氏基金會心理衛生中心將「拾光足跡」陪伴特展暨座談分享會酷卡，公告於本所網站公告宣傳，鼓勵民眾蒞臨參加。：https://hengshan.hsinchu.gov.tw/News_Content.aspx?n=1482&s=117281
-- 2026-11-03 轉知新竹縣政府「115年度新竹縣客話講故事推廣計畫－親子共下樂讀客家」活動 - 新竹縣政府-政風處：https://ethics.hsinchu.gov.tw/News_Content.aspx?n=662&sms=9033&s=339591
-- 2026-11-03 COMEBACK 竹風再起！新竹棒球場50週年交流賽11/1登場！高虹安市長：臺日韓球隊齊聚 迎接新竹棒球新篇章：https://www.hccg.gov.tw/hccg/app/data/view?module=news&id=30122&serno=d873041f-0077-40bf-9737-2fec6ca5f12c
-- 2026-11-03 公告專區-為配合辦理本府網路設備更換作業，本網站將於115年10月16日（星期五）下午7時至115年10月17日（星期六）上午1時止暫停服務，期間無法對外提供相關網路服務，造成您的不便，敬請見諒。：https://olidons.tycg.gov.tw/news-info.aspx?id=10016
-- 2026-11-03 國內甲組四大勁旅齊聚蘭陽 縣府熱情邀請宜蘭鄉親進場看球力挺宜蘭囝仔：https://www.e-land.gov.tw/News_Content.aspx?n=11419&s=411683
-- 2026-11-03 2026天下城市治理卓越獎 宜蘭公共造產奪首獎：https://www.e-land.gov.tw/News_Content.aspx?n=11419&s=411596
-- 2026-11-03 有關原住民族委員會「116年度公益彩券回饋金補助計畫－推動原住民族氣候韌性特色農業升級計畫」，敬請符合資格之單位踴躍申請。 - 新竹縣政府-原住民族行政處：https://indigenous.hsinchu.gov.tw/News_Content.aspx?n=270&sms=8635&s=358006
-- 2026-11-03 協助宣傳「第57屆全國技能競賽 北區分區技能競賽」：https://eso.gov.taipei/News_Content.aspx?n=140A8BB24192F951&sms=E06D8D11F6EADF28&s=E8E2A00D9091FD3C
-- 2026-11-03 本所社福專車海線PAB-652(頂埔-石城)，因車輛進廠維修，於115年11/4(三)下午第四班次停駛：https://toucheng.e-land.gov.tw/News_Content.aspx?n=7034&sms=13138&s=411786
+- 2026-11-04 城中攤販集中場（俗稱城中市場）：https://www.tcma.gov.taipei/News_Photo.aspx?n=C585E4F4F66F6073&sms=B83C51CEC62E5EB4
+- 2026-11-04 桃園13區全數取得低碳永續銅級以上認證 張市長：公私協力深化社區減碳：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1951871
+- 2026-11-04 農林漁牧-每年休耕轉作何時申報補助？：https://www.tycg.gov.tw/News_Content.aspx?n=97&s=1880262
+- 2026-11-04 本會訂於115年11月17日星期二上午9時30分召開「修訂臺北市都市更新地區暨擬定都市更新計畫案」第4次專案小組會議(會議資料如附件)：https://tupc.gov.taipei/News_Content.aspx?n=92B02A3B4E691FBE&sms=78D644F2755ACCAA&s=9BAA92D9C7D59350
+- 2026-11-04 116年「身心障礙者社區日間作業設施補助實施計畫」開始受理申請，申請截止日至115年11月23日止，逾期不予受理。：https://sab.tycg.gov.tw/News_Content.aspx?n=7300&s=1951203
+- 2026-11-04 私立育達高中-臺北育達多媒科實驗班前進桃園 支援宋坤傳藝《酬神》燈光與舞監實務：https://www.doe.gov.taipei/News_Content.aspx?n=B3DDF0458F0FFC11&sms=72544237BBE4C5F6&s=FF89822364714764
+- 2026-11-04 臺北交通安心行1.0升級2.0 蔣萬安：打造更安全、更友善的行人交通環境：https://www.gov.taipei/News_Content.aspx?n=2044902FC839D045&sms=72544237BBE4C5F6&s=23F1B1AFD0EB68C8
+- 2026-11-04 因應北投區泉源路邊坡搶修工程交通管制，公車配合改道並取消停靠站位：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=349A347FE82A64EA
+- 2026-11-04 竹市表揚54家餐飲衛生優良業者、30家竹選友善店家 高虹安市長：攜手打造安心飲食環境：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=2c187579-ab1a-409a-a765-cbf65dde1430
+- 2026-11-04 轉知{宜蘭縣政府青年創業貸款計畫}業經115年10月30 日奉核修正實施，並刊登於本府勞工處網站，檢送本計畫及修正對照表各1份，公告周知。：https://www.datong.e-land.gov.tw/News_Content.aspx?n=13988&s=411924
+- 2026-11-04 內壢首件公辦都更案開工 張市長：活化站前土地、完善居住與公共服務：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1951567
+- 2026-11-04 桃園智慧治理3年獲近70件獎項肯定 張市長：以問題導向推動城市創新：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1951560
+- 2026-11-04 600元折抵券明日開搶！11/6-11/8「Show Up台北」串聯人氣創作樂團@小巨蛋演唱會登錄再抽演唱會周邊、東京雙人機票 380+商圈特約店家票根優惠一起拿！：https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&sms=72544237BBE4C5F6&s=29BDAFF1CB525A99
+- 2026-11-04 桃園連3年榮獲Gartner國際創新獎項 張市長：跨局處智慧治理成果獲國際肯定：https://www.tycg.gov.tw/News_Content.aspx?n=11079&s=1951553
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
