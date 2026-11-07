@@ -4,36 +4,36 @@
 
 - 網址：https://web11.subsidyking.tw/
 - 主題：北部縣市政策與地方新聞
-- 更新：2026-11-07（每日自動更新）
+- 更新：2026-11-08（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-08 活動訊息-銀髮族3C講座─進階課程：AI創意初體驗：https://uro.gov.taipei/News_Content.aspx?n=912B062426D7323D&sms=9D72E82EC16F3E64&s=D68B5A348E000FF5
+- 2026-11-08 如何查詢目前桃園市政府辦理中的重大建設計畫項目及辦理進度？：https://sccdc.tycg.gov.tw/News_Content.aspx?n=16815&s=1960098
+- 2026-11-08 如何查詢目前桃園市政府重要施政成果？：https://sccdc.tycg.gov.tw/News_Content.aspx?n=16815&s=1960092
+- 2026-11-08 「2026青草湖光影藝術節」盛大開幕！高虹安市長「喚光」點亮湖畔 邀民眾共賞湖光藝術之美：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=1b09d443-b1c7-4af5-8349-275e8034eefe
+- 2026-11-08 公開徵求-新竹縣116年老人福利機構倡導關懷服務及品質輔導計畫招標計畫(草案)：https://longcare.hsinchu.gov.tw/News_Content.aspx?n=3539&s=357882
+- 2026-11-08 活動主題館-銀髮族3C講座─進階課程：AI創意初體驗：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=D68B5A348E000FF5
 - 2026-11-07 總館視聽室「表演藝術同樂會」11月節目表：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=286A9EE5AA8153B1
 - 2026-11-07 同一縣市有多筆土地，地價稅單仍然只有一張！：https://www.klcg.gov.tw/tw/klcg1/3168-324346.html
-- 2026-11-06 招標資訊－115B008-115年度基隆市立明德國民中學射擊運動訓練設備優化計畫採購案：https://www.klcg.gov.tw/tw/klcg1/3208-324381.html
-- 2026-11-06 招標資訊－115A104-(116)安樂、七堵、暖暖區污水下水道零星管線維護及清疏工程(單價標)：https://www.klcg.gov.tw/tw/klcg1/3208-324390.html
-- 2026-11-06 活動訊息-大同分館「感恩聖誕—身心障礙友善」館藏特色主題書展：https://uro.gov.taipei/News_Content.aspx?n=912B062426D7323D&sms=9D72E82EC16F3E64&s=AF54D5E5811A26E2
-- 2026-11-06 活動訊息-大同分館「聖誕閱讀同樂會」閱讀推廣活動：https://uro.gov.taipei/News_Content.aspx?n=912B062426D7323D&sms=9D72E82EC16F3E64&s=D5690412A40D16E4
-- 2026-11-06 本府活動-大同分館「聖誕閱讀同樂會」閱讀推廣活動：https://doit.gov.taipei/News_Content.aspx?n=A959DD533C5D9FD8&sms=9D72E82EC16F3E64&s=D5690412A40D16E4
-- 2026-11-06 大同分館「感恩聖誕—身心障礙友善」館藏特色主題書展：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=AF54D5E5811A26E2
-- 2026-11-06 大同分館「聖誕閱讀同樂會」閱讀推廣活動：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=D5690412A40D16E4
-- 2026-11-06 臺北市木柵運動館暨永建市場大樓（健身中心）興建營運移轉（ROT）案預評估結果報告：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=FF70CAAC4159094C
-- 2026-11-06 地價稅繳款書功能多多：https://www.klcg.gov.tw/tw/klcg1/3168-324345.html
-- 2026-11-06 新屋中華南路一段拓寬動土 張市長：提升新屋、楊梅區域交通安全與品質：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1957718
-- 2026-11-06 海港富竹・竹夢啟航！竹市北區5社區大手牽小手共築全齡照顧網 高虹安市長：用愛打造幸福共好社區：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=349fc9ea-5fa1-499b-a500-07a2faad2db1
-- 2026-11-06 公告本市公有市場115年第2次攤鋪位使用權公開招標案：https://dep-construction.hccg.gov.tw/ch/home.jsp?id=10087&parentpath=0,1&mcustomize=announcement_view.jsp&toolsflag=Y&dataserno=202610150003&t=announcement&mserno=201601300016
-- 2026-11-06 桃園商圈特色亮點形塑成果發表 張市長：深化一商圈一特色、提升地方產業競爭力：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1957392
-- 2026-11-06 「2026東區週年慶」11/6開跑！140+家店家聯手祭百萬好禮消費滿額抽iPhone 18 Pro 超過千組知名IP聯名好禮：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=DB14E59568C7D19D
-- 2026-11-06 蔣萬安出席東區周年慶啟動儀式 承諾商圈建設經費只增不減 公私協力再現東區繁華：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=5E9C939DC9E7D3B5
-- 2026-11-06 園縣市高峰會第15次會議 聚焦智慧交通與產業永續 高虹安市長：園縣市攜手提升區域競爭力：https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=6b12bdad-5215-47dc-8fe1-03ccaaf9a08e
-- 2026-11-06 116年桃園市水污染源管制查核計畫：https://tydep.tycg.gov.tw/News_Content.aspx?n=20037&s=1956829
-- 2026-11-06 桃園450位家長會長獲頒證書及感謝狀 張市長感謝攜手提升教育品質：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1957391
-- 2026-11-06 東華大學辦理運動部委託「115年全國大專校院適應運動 成果發表會：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=D9DF06B107FACAF5
-- 2026-11-06 社會處(兒少及家庭支持科)徵求聘用社會工作員2名：https://society.hccg.gov.tw/ch/home.jsp?id=16&parentpath=0,2&mcustomize=job_view.jsp&toolsflag=Y&dataserno=202610160004&t=Job
-- 2026-11-06 蔣萬安市長視察成淵高中供餐情形 指示推動營養午餐四大精進方案 全面強化校園食安：https://www.doe.gov.taipei/News_Content.aspx?n=B3DDF0458F0FFC11&sms=72544237BBE4C5F6&s=501DFBF453174D5D
-- 2026-11-06 2026香山濕地藝術季吸引逾4萬人次參觀 高虹安市長邀民眾明年再訪感受濕地之美：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=9b44f33b-7a92-4fa7-854a-a109dbb88bab
-- 2026-11-06 竹市清潔車、隊員制服化身城市行動名片！高虹安市長開箱全新機能與識別 打造環境清潔新風貌：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=cf06df1d-1670-4826-b8a7-9710461f878d
+- 2026-11-07 桃園市台東同鄉會會員大會暨理事長交接典禮 張市長：桃東情誼緊密無間、攜手促進城鄉共好：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1959951
+- 2026-11-07 【115年10月3日~116年1月10日】「動念如一：致虛無、營氣動」─吳炫三、吳奇娜父女雙個展：https://ymoa.e-land.gov.tw/NewsExhibitionContent.aspx?n=2261&s=410045
+- 2026-11-07 沈委員的住宅政策，不論是「老宅延壽再加碼」、「多元興辦社宅」， 市政府都已經在執行的路上：https://udd.gov.taipei/events/fhqekzq-21445
+- 2026-11-07 駁斥垃圾車廣播「拉票」不實謠言 北市環保局嚴正闢謠：只宣傳「公費疫苗接種：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=DD8880E7E306DA7A
+- 2026-11-07 臺北市政府環境保護局-新聞稿-駁斥垃圾車廣播「拉票」不實謠言北市環保局嚴正闢謠：只宣傳「公費疫苗接種」：https://www.dep.gov.taipei/News_Content.aspx?n=CB6D5C560DE4D2DD&sms=72544237BBE4C5F6&s=DD8880E7E306DA7A
+- 2026-11-07 攜手相伴一甲子！竹市表揚68對鑽石婚夫妻 高虹安市長祝福長輩幸福呷百二：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=7343c132-bf65-4b8c-bc1b-3a192c3fc220
+- 2026-11-07 2026桃園亞洲職棒交流賽熱血開打 張市長：打造桃園年度國際棒球盛事：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1959765
+- 2026-11-07 「台北造起來ㄈㄥ年慶」擴大登場！50家新舊好店齊聚艋舺公園輔導有成，打造台北最潮街廓景點：https://doit.gov.taipei/News_Content.aspx?n=A959DD533C5D9FD8&sms=9D72E82EC16F3E64&s=ADF609A7866198C6
+- 2026-11-07 「2026 Taipei 正裝時刻」打造頂級紳士盛宴!國際級冠軍工藝震撼登場！：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=7A6703801A686D7B
+- 2026-11-07 營運整備就緒！桃園南區青少年活動中心11月底升級登場：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=7&s=1959763
+- 2026-11-07 竹市74位語文好手進軍全國賽 高虹安市長勉勵選手全力以赴、爭取佳績：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30210&serno=c8c621d8-7624-48bd-9fd5-2d8b6d907725
+- 2026-11-07 桃園表揚12位好人好事代表 張市長肯定無私奉獻、傳遞社會正向力量：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1959759
+- 2026-11-07 「2026新竹眷村文化節」熱鬧登場 高虹安市長：展現竹市眷村文化多元魅力：https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=e18eed92-270e-4590-b4da-37f35d31ec81
+- 2026-11-07 「2026新竹童樂會」孔廟巡迴最終站登場！高虹安市長邀親子11/14齊聚大湳雅公園「能量大集結」：https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=1eccd791-6191-4996-a9ce-c2142cee9738
+- 2026-11-07 靜修女中右側樹木不當修剪私有土地樹主自行處理：https://pkl.gov.taipei/News_Content.aspx?n=43E05059FCC72525&sms=72544237BBE4C5F6&s=05BB2B0EEE07D920
+- 2026-11-07 即時新聞澄清-靜修女中右側樹木不當修剪私有土地樹主自行處理：https://www.gov.taipei/News_Content.aspx?n=74806083EBDF5A03&sms=72544237BBE4C5F6&s=05BB2B0EEE07D920
+- 2026-11-07 大中壢張氏宗親會會員大會 張市長：升級敬老福利、完善全齡照顧體系：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1959760
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
