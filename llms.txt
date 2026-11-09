@@ -4,36 +4,36 @@
 
 - 網址：https://web11.subsidyking.tw/
 - 主題：北部縣市政策與地方新聞
-- 更新：2026-11-09（每日自動更新）
+- 更新：2026-11-10（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-10 無償供公眾通行的道路用地才可免稅：https://www.klcg.gov.tw/tw/klcg1/3168-324352.html
 - 2026-11-09 葫蘆堵分館12月市民假日電影院：春逝：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=89A71019B77EB824
 - 2026-11-09 建成分館「借書答題抽抽樂2」館特書展暨有獎徵答活動：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=92E836F1519BB8E7
 - 2026-11-09 活動主題館-葫蘆堵分館12月市民假日電影院：春逝：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=89A71019B77EB824
 - 2026-11-09 活動主題館-建成分館「借書答題抽抽樂2」館特書展暨有獎徵答活動：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=92E836F1519BB8E7
-- 2026-11-08 活動訊息-銀髮族3C講座─進階課程：AI創意初體驗：https://uro.gov.taipei/News_Content.aspx?n=912B062426D7323D&sms=9D72E82EC16F3E64&s=D68B5A348E000FF5
-- 2026-11-08 如何查詢目前桃園市政府辦理中的重大建設計畫項目及辦理進度？：https://sccdc.tycg.gov.tw/News_Content.aspx?n=16815&s=1960098
-- 2026-11-08 如何查詢目前桃園市政府重要施政成果？：https://sccdc.tycg.gov.tw/News_Content.aspx?n=16815&s=1960092
-- 2026-11-08 「2026青草湖光影藝術節」盛大開幕！高虹安市長「喚光」點亮湖畔 邀民眾共賞湖光藝術之美：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=1b09d443-b1c7-4af5-8349-275e8034eefe
-- 2026-11-08 公開徵求-新竹縣116年老人福利機構倡導關懷服務及品質輔導計畫招標計畫(草案)：https://longcare.hsinchu.gov.tw/News_Content.aspx?n=3539&s=357882
-- 2026-11-08 活動主題館-銀髮族3C講座─進階課程：AI創意初體驗：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=D68B5A348E000FF5
-- 2026-11-08 116年度新北市附屬單位預算營業基金財務摘要綜計表：https://data.ntpc.gov.tw/datasets/63980fd8-3475-481b-80a3-9564433d8f2a
-- 2026-11-08 竹市「少來呷辦桌」歡樂開宴 高虹安市長與青少年同樂共享傳統辦桌饗宴：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=19080182-74bf-4036-bd44-0d009ffc8183
-- 2026-11-08 住宿式服務使用者補助加碼 全年最高18萬元！即日起開放申請：https://longcare.hsinchu.gov.tw/News_Content.aspx?n=3673&s=357364
-- 2026-11-08 2026新竹市立棒球場50週年交流賽11/1登場！會場不提供汽車停車位 免費接駁車、機車停車資訊一次看：https://www.hccg.gov.tw/hccg/app/data/view?module=news&id=30122&serno=3fb60776-ade6-4ea2-b5a7-ef0966f23946
-- 2026-11-08 竹市醫師節表揚33位資深醫師 高虹安市長：感謝醫界長年守護市民健康：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=1696c5ae-9302-4302-9359-11aa2b02c480
-- 2026-11-08 桃園國際新創機器人節圓滿落幕 張市長：跨局處培育人才、打造國際級科技賽事：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1962333
-- 2026-11-08 2026鋼琴嘉年華開琴音樂會登場 高虹安市長：持續扎根音樂教育 打造國際級音樂展演環境：https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=e28aed16-543d-4d28-a3d7-5009aa096359
-- 2026-11-08 《焗腦人》獲2026鍾肇政文學獎長篇首獎 張市長盼持續深化獎項特色：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1962332
-- 2026-11-08 出席「大稻埕秋穫季」踩街 蔣萬安：在地百年商家與文史夥伴共同打造國際化、在地化的大稻埕風情：https://www.gov.taipei/News_Content.aspx?n=2044902FC839D045&sms=72544237BBE4C5F6&s=D486748025EABFEA
-- 2026-11-08 桃園勞工趣味競賽 張市長：持續加碼福利資源打造樂業幸福桃園：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1962329
-- 2026-11-08 威尼斯早泳會長交接典禮 張市長：持續優化運動設施：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1962331
-- 2026-11-08 即時新聞澄清-光華商場樹木屬於國有財產署所有機關自行維管：https://www.gov.taipei/News_Content.aspx?n=74806083EBDF5A03&sms=72544237BBE4C5F6&s=3E8D22397EA8A007
-- 2026-11-08 「2026 臺北國際網紅節」11月7日至8日於香堤大道市集快閃網紅合作推廣本市特色商品：https://www.tcooc.gov.taipei/News_Content.aspx?n=5315909B7F9DD212&sms=9D72E82EC16F3E64&s=97E0A4A43B490630
-- 2026-11-08 平鎮浸信會70週年千人同慶 王明鉅感謝教會深耕公益：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=7&s=1962296
-- 2026-11-08 長青學苑結業典禮圓滿落幕 樂齡學習展現活力：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=7&s=1962294
+- 2026-11-09 案號115025第1次限制性招標116年公益出租人地方稅核定作業人力委託服務採購案115年11月19日開標：https://tytax.tycg.gov.tw/News_Content.aspx?n=7799&s=1964688
+- 2026-11-09 115年中正區全聯及樂家康超市辦理公費流感疫苗設站場次表：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=B44B15008A8A98B8
+- 2026-11-09 \本市為提升115年11月起敬老愛心計程車駕駛完成敬老愛心卡趟次，趟趟獎勵5元。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=BD4F1F297CC6CECA
+- 2026-11-09 最新訊息-新竹市政府養護工程處：https://www.hccg.gov.tw/parks/app/data/view?module=municipalnews&id=76&serno=f22ab254-58cd-4dd7-9cf9-5be0ceafb200
+- 2026-11-09 從未接電話到住家守候 注意分手後暴力升級警訊：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=211CE889ADD08993
+- 2026-11-09 臺北生醫創新實力前進MEDICA 2026！ Team Taipei 6家企業搶攻全球精準醫療與智慧照護商機：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=14702DCEE51A3F9F
+- 2026-11-09 配合桃園市楊梅區楊光國民中小學辦理「115學年度校慶暨運動會」活動，舉辦租稅宣導活動，歡迎大家踴躍參加！：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=7&s=1965088
+- 2026-11-09 市府新聞稿-深耕十五載勇奪機構全國第一！北市公訓處榮獲環境部評鑑「優異獎」：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=746D6A359629B834
+- 2026-11-09 【賽事資訊】116年全國自由盃軟式網球分齡錦標賽：https://www.doe.gov.taipei/News_Content.aspx?n=9AA0CC873BD001A2&s=24509DA3D58FECCA
+- 2026-11-09 臺北市稅捐稽徵處辦理「115年度結合統一發票推行辦理稅務實境解謎─國稅與地方稅趣味問答租稅宣導活動」：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=9517696E88DD8A07
+- 2026-11-09 大安高工-大安高工協助日本大分縣辦理教育交流說明會，深化臺日教育合作 拓展兩地學校交流新契機！：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=B1FC196717C16CBA
+- 2026-11-09 私立育達高中-臺北育達烘焙科奪「非米不可」全國佳作！在地食材驚豔全場：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=F6E0160DBA427194
+- 2026-11-09 華江高中-華江高中82週年校慶 活力有LOVE展現校園熱情：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=6F24E4ED4A5D7806
+- 2026-11-09 私立育達高中-藝人刺刺快閃現身臺北育達高中！攜手表藝科學生熱唱新歌〈太帥有罪〉：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=701B3723A1A104EB
+- 2026-11-09 竹科廣播股份有限公司與世界先進積體電路股份有限公司合作辦理「2026學用接軌：探索職場多元樣貌，預見未來的無限可能」專案。：https://www.doe.gov.taipei/News_Content.aspx?n=9AA0CC873BD001A2&s=E40D98D19E95918C
+- 2026-11-09 謝國樑加速推進基隆捷運雙橋改建齊發、型塑城市新風貌：https://www.klcg.gov.tw/tw/klcg1/3168-324515.html
+- 2026-11-09 桃園客家古早味飄香韓國龜尾拉麵慶典 美食外交續寫兩市友好情誼：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=7&s=1965040
+- 2026-11-09 配合115年11月15日士林區社正路集會活動交通管制公車調整措施：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=D25A53D598F1F531
+- 2026-11-09 中山分館配合「115年地方公職人員選舉及全國性公民投票」選務作業需要，調整服務時間。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=1CBA72450CC8FCAE
+- 2026-11-09 新科警員展現高效率 積極協尋30分鐘成功尋回失智翁：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=AAEC9B8394CFAED4
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
