@@ -4,39 +4,38 @@
 
 - 網址：https://web11.subsidyking.tw/
 - 主題：北部縣市政策與地方新聞
-- 更新：2026-11-11（每日自動更新）
+- 更新：2026-11-12（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-12 已適用優惠稅率者，不需每年重新提出申請：https://www.klcg.gov.tw/tw/klcg1/3168-324356.html
 - 2026-11-11 臺北市政府主計處辦理「115年11月人力資源調查」，調查方式採「派員面訪」、「電話訪問」及「網路填報」等多元管道填表，敬請配合支持。：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=9E6165ABAC59D6CE
 - 2026-11-11 活動主題館-親子美育數位圖書館「佳節叮噹:聖誕毬果創作」講座：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=7C764822750EB7D0
 - 2026-11-11 「臺北市七虎運動館暨前港公園及天溪綠地游泳池興建營運移轉（ROT）案」預評估結果公告：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=859C8772CC685C29
 - 2026-11-11 自用住宅用地稅率讓您省很大！：https://www.klcg.gov.tw/tw/klcg1/3168-324354.html
 - 2026-11-11 智慧沙盒解題徵件今日起重磅登場！：https://smartsandbox.hsinchu.gov.tw/home/pagenewscontent.html?NewsSN=7
-- 2026-11-10 無償供公眾通行的道路用地才可免稅：https://www.klcg.gov.tw/tw/klcg1/3168-324352.html
-- 2026-11-10 國家級建築獎項肯定 文興國中落成揭牌迎向改制高中里程碑：https://travel.hsinchu.gov.tw/News/Content/dyGPgbbRvzjD
-- 2026-11-10 國立中興大學訂於115年11月19日於農業環境科學大樓7樓及食品暨生技實習工廠辦理「有機食農教育種子教師培訓課程」：https://www.doe.gov.taipei/News_Content.aspx?n=9AA0CC873BD001A2&s=C0AED9CAEBE4D0F3
-- 2026-11-10 115年9月份新竹縣身心障礙者就業基金會計月報 - 新竹縣政府-主計處：https://accounting.hsinchu.gov.tw/News_Content.aspx?n=751&s=357497
-- 2026-11-10 公告本市南港59號公園臨時及福山等2處平面停車場委託力揚停車場設備股份有限公司經營管理，實施24小時計時收費。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=19E549704882439A
-- 2026-11-10 中壢滯洪池打造智慧防洪新防線 提升城市防災韌性：https://opc.tycg.gov.tw/News_Content.aspx?n=9330&s=1967178
-- 2026-11-10 桃園三級棒球訓練營開訓 張市長：攜手球星傳承經驗、扎根基層棒球：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1967547
-- 2026-11-10 配合115年11月11日士林區永公路100號至永公路245巷路面更新工程公車調整措施：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=E8AB27858B29A55C
-- 2026-11-10 國立臺灣美術館辦理「時尚流聲：穿在身上的語言」展覽：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=D40058DB7A4BBE7A
-- 2026-11-10 呂宛庭議員總質詢關注新埔交通建設 褒忠路拓寬工程預計11月底開工 - 新竹縣政府-傳播行銷處：https://information.hsinchu.gov.tw/News_Content.aspx?n=2203&sms=8603&s=357554
-- 2026-11-10 【採訪通知】水源新天地暨公館運動館開箱活動：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=4977F261C3021BEA
-- 2026-11-10 「2026臺北秋季程式設計節」圓滿落幕 匯聚民間創意，共創友善共融城市：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=715F6BEBB6268657
-- 2026-11-10 新總圖工程持續推進 高虹安市長視察木紋清水模及地下停車場施工進度：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=6dbbec3d-52d2-456d-bec6-7f6718b61e52
-- 2026-11-10 臺北市116學年度身心障礙學生十二年就學安置高級中等學校簡章：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=BFAF853386D1E46D
-- 2026-11-10 歷史建築「市長官邸」營運移轉（OT）案促參可行性評估公聽會：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=902552D0079710CD
-- 2026-11-10 臺北捷運恪守行政中立 大安站周邊合法活動依人潮狀況引導旅客 標準一致：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=8B0BC49091673136
-- 2026-11-10 古亭國中-82歲與4歲同臺共舞！古亭國中64週年校慶展現代間教育 三大幸福空間溫馨揭幕：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=4995FD96782ADE15
-- 2026-11-10 大橋國小-大橋國小孩子動手玩程式，PINGO車動起來！：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=7D661E8F5E931DE6
-- 2026-11-10 竹市本週市務會議聚焦財政健全與污水下水道建設 高虹安市長：落實財政紀律推進建設、強化施政溝通與工安維護：https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=a429c0d1-7913-4817-9982-369afdfb5c99
-- 2026-11-10 第一屆便宜吃牛肉麵 網紅大胃王比賽：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=1EE647CFF5637645
+- 2026-11-11 115年11月人力資源調查開跑囉！11月18日至21日為民眾自主網填；未網填者將由訪查員於11月22日至28日進行訪問，敬請市民支持。：https://dbas.tycg.gov.tw/News_Content.aspx?n=12085&s=1970230
+- 2026-11-11 教育部委請國立臺北藝術大學辦理「藝教30－全國藝術教育論壇」（南區場）：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=9C2A9239EE28BFF7
+- 2026-11-11 115年9月份新竹縣農業發展基金會計月報 - 新竹縣政府-主計處：https://accounting.hsinchu.gov.tw/News_Content.aspx?n=751&s=357501
+- 2026-11-11 桃園市立醫院大溪分院動土 張市長：完善在地醫療及交通建設：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1970352
+- 2026-11-11 德和路一段二階新闢道路提前完工 蘇俊賓：捷運四線匯八德 桃園新核心！：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1970351
+- 2026-11-11 德和路一段第二階段提前40天完工! 11月21日正式開放通車：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=7&s=1970349
+- 2026-11-11 115年11月人力資源調查：https://www.klcg.gov.tw/tw/accounting/2607-324586.html
+- 2026-11-11 桃園攜手產業界推動無人載具發展 張市長：串聯研發量產能量、拓展國際市場：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1970350
+- 2026-11-11 【賽事資訊】115學年度智力運動—高雄市青少年橋藝錦標賽：https://www.doe.gov.taipei/News_Content.aspx?n=9AA0CC873BD001A2&s=1613376E9EEB6AC5
+- 2026-11-11 2026語言復振影展：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=D144087434DA42B4
+- 2026-11-11 116學年度碩士在職專班招生簡章：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=E1E58614D3AA031A
+- 2026-11-11 新竹通APP拓展生活消費服務！特約店家招商說明會登場 高虹安市長邀在地業者共襄盛舉：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=d50ac94f-ad2c-4c73-9a58-c3573f866ece
+- 2026-11-11 大溪一號埔頂社宅暨市立醫院大溪分院動土 張市長：打造醫療社宅共構模式完善在地照護：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1970235
+- 2026-11-11 臺北第一中學校印、後藤新平書軸等3案3件校園古物獲指定臺北市一般古物文化資產：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=F1A6B29C6F050F93
+- 2026-11-11 打詐臺北隊115年11月反詐宣導：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=59612E9D79AE99BF
+- 2026-11-11 115年國民營養調查於臺北市南港區玉成里抽樣，時間:115年11月5日~11月30日，歡迎里民踴躍參加!!：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=A45477C196284EB1
+- 2026-11-11 「臺北館」招商說明會圓滿完成，邀民間攜手打造城市新亮點！：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=C7AB517050D5F962
+- 2026-11-11 驚！「我的老天鵝」深夜逛大街，南港警暖心救援助返家！：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=856A8C0A990BAF37
+- 2026-11-11 竹市地政考評連續十餘年蟬聯績優！高虹安市長：導入AI科技打造智慧便民地政服務：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=6c6ffdef-7708-45c1-81ed-5edab3277677
 
 ## 相關網站
-- 補助王：https://www.subsidyking.tw/
 - 標案王：https://www.bidking.tw/
 - 台灣政府補助新聞網：https://news.subsidyking.tw/
 - 中部新聞網：https://web12.subsidyking.tw/
