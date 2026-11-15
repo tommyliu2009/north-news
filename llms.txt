@@ -4,36 +4,36 @@
 
 - 網址：https://web11.subsidyking.tw/
 - 主題：北部縣市政策與地方新聞
-- 更新：2026-11-15（每日自動更新）
+- 更新：2026-11-16（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-16 新聞資訊-新北替代役青年暖心相伴 老歌賓果、布袋球競賽樂齡同歡：https://www.ca.ntpc.gov.tw/home.jsp?id=7909a03d82ce044c&act=43c8cd4505626cc5&dataserno=595bf7f27c14df9cd94bba9f2b0818ce&mserno=271627cfb738ea8e792f3d907896a560
+- 2026-11-16 峨眉鄉遊程規劃｜搭乘幸福巴士、幸福嗨呀輕鬆遊峨眉：https://emei.hsinchu.gov.tw/News_Content.aspx?n=496&s=116527
 - 2026-11-15 作家與讀者有約講座《傳承財富不留紛爭》：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=1C737ABF22D44CDB
-- 2026-11-14 活動主題館-太陽圖書館「瞭解能源的秘密和守護城市裡的自然」親子講座：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=A7A088A3909A6E93
-- 2026-11-14 夫妻持分共有的土地，雙方須提出申請，核准後才可以適用優惠稅率：https://www.klcg.gov.tw/tw/klcg1/3168-324392.html
-- 2026-11-14 11/14、15「2026八德3C哈樂DAY」壓軸主場週：https://www.tcooc.gov.taipei/News_Content.aspx?n=E5927B93F41F8DD4&sms=72544237BBE4C5F6&s=E00D80575E609565
-- 2026-11-14 瑠公綠廊灌木數月前上半部枯死 取得里長共識 修剪後維持生長：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=70E9041058543DEC
-- 2026-11-14 基隆市政府兒童及少年家外安置外部申訴處理流程：https://www.klcg.gov.tw/tw/children/4307-322729.html
-- 2026-11-14 竹市客家文藝復興補助計畫成果展登場 高虹安市長：10組團隊齊聚展現客家文化傳承與創新能量：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=589f129f-de09-4b58-bd6e-369d66a22a99
-- 2026-11-14 「2026新竹童樂會－皮卡歐嗨YO！」壓軸嘉年華熱鬧登場！高虹安市長與親子熱力唱跳 共創歡樂回憶：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=24606fec-b5af-4fc6-bda2-35a8c2c6f975
-- 2026-11-14 草漯國小學文樓落成啟用 蘇俊賓:桃園4年投入校舍新建整修190億經費 全國最多：https://news.tycg.gov.tw/News_Content.aspx?n=5016&s=1977839
-- 2026-11-14 竹市勞工親子健行十八尖山熱鬧登場 高虹安市長：持續完善勞工福利與多元支持：https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=7e31bcf5-b482-4794-8a39-05eb47c6941e
-- 2026-11-14 桃園市國樂團十周年慶音樂會 王副市長期勉持續精進演出實力 展現桃園藝文能量：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1977843
-- 2026-11-14 百花燈影映照新竹 高虹安市長邀請市民走入蕭在淦藝師花燈百歲紀念特展：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=d3e70b6e-4807-4e5b-98c4-2210a44809de
-- 2026-11-14 竹市115年國際身障日系列活動登場 高虹安市長：AI手語翻譯結合科技創新 打造友善共融城市：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=4aaa29cb-3a45-450c-90a3-ef62745baa4a
-- 2026-11-14 竹市首辦「風城名人講堂」九場跨域分享圓滿落幕 高虹安市長盼青年將學習轉化為行動：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=f07d7373-c6cb-4c05-9032-4bbfd73fb403
-- 2026-11-14 2026桃園花彩節繽紛登場 王副市長邀民眾把握9天花海盛宴：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1977840
-- 2026-11-14 城市小英雄出動！新竹市街頭鬥牛「淨」賽登場 高虹安市長：以行動守護城市環境：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=e90a69d8-ab5a-47ca-a69f-2101f976e7d9
-- 2026-11-14 竹市雙校同慶！載熙國小80週年、青草湖國小20週年 高虹安市長：持續打造優質學習環境：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=fe7845f9-c7ef-4175-bf14-e5739169f828
-- 2026-11-14 響應「世界糖尿病日」！高虹安市長呼籲及早行動 控糖五原則守護健康：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=bfd0d3b7-bf3c-4fc1-8841-66ea8d7c970a
-- 2026-11-14 《營造業法》、檢調與三大鑑定公會調查均未要求施工圖 北市籲中央依監察院意見建立全國一致性規範：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=26129F7D94605654
-- 2026-11-14 臺北捷運連續4天運量創新 11月13日週五更一舉刷新通車30年以來最高歷史紀錄：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=4E875CD9F710E154
-- 2026-11-14 職安法修法上路！增訂「職場霸凌防制專章」，鎖定「勞咖會客室」完整解析制度新革新：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=2C29C659757F781F
-- 2026-11-14 竹市兩校歡慶創校週年！清大附小深耕科技、成德高中展現全人教育 高虹安市長：校校實踐新竹好學：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=9ab53d77-219a-4bf3-adf4-7ad7b3f948dc
-- 2026-11-14 志清國小歡慶50週年校慶 林奕華肯定數位學習成果 見證「蘋果傑出學校」授證：https://www.gov.taipei/News_Content.aspx?n=2044902FC839D045&sms=72544237BBE4C5F6&s=1DD72DB1CF090799
-- 2026-11-14 榮耀50品德綠活—臺北市文山區志清國小115學年度50週年校慶園遊會：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=C94CABFBB99B8C33
-- 2026-11-14 破除網路謠言：網傳「戒嚴了？北捷不准交換飄帶」 臺北捷運公司嚴正駁斥：接獲通報立即前往查證 無禁止相關行為：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=41EE6E76502EDB8A
+- 2026-11-15 台北府城隍廟恭祝建廟145週年辦理城隍文化祭於11月23至25日建醮活動：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&s=4F28C4A92D22719E
+- 2026-11-15 籲賴總統不應混淆事實北市建管處：本案已依「建照核准圖」查明違法並懲戒、判刑：https://cmo.gov.taipei/News_Content.aspx?n=2489C7DF2B5C1860&sms=72544237BBE4C5F6&s=8A4BFF068312542E
+- 2026-11-15 市府新聞稿-籲賴總統不應混淆事實北市建管處：本案已依「建照核准圖」查明違法並懲戒、判刑：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=8A4BFF068312542E
+- 2026-11-15 公共行政-何謂總決算?主管決算?單位決算?單位決算之分決算?(1702-20130422-00004)：https://www.tycg.gov.tw/News_Content.aspx?n=97&sms=7923&s=1880815
+- 2026-11-15 推動芎林河濱公園整體規劃，提升地方生活品質。：https://www.hsinchu.gov.tw/News_Content.aspx?n=3653&s=346146
+- 2026-11-15 新設自來水外線補助11/15截止 桃園經發局提醒符合資格家戶別錯過：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=7&sms=7882&s=1892937
+- 2026-11-15 竹市「社區安全安心宣導」圓滿落幕 高虹安市長：警消協力打造安心生活環境：https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=3ee33fd4-a055-47d9-8c95-f610cf7de33e
+- 2026-11-15 國外匯款疑點重重 士林警耐心勸阻成功保住民眾積蓄：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=ED587754741DE7C3
+- 2026-11-15 桃園市民聯合婚禮登場 張市長化身幸福列車長祝福88對新人幸福啟航：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1980405
+- 2026-11-15 彭余美玲縣政總質詢 關注竹東重大建設與交通路網：https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357736
+- 2026-11-15 張善政僅出席一次美光勞資協商？桃市府：三場出席兩場 不查證就寫假新聞：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=11&s=1980403
+- 2026-11-15 美光勞資爭議重大進展 張市長多日協調 11/17重回談判桌進入調停程序：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1980241
+- 2026-11-15 全城應援！ 11/15「公車友善心運動」優良駕駛長頒獎典禮隆重登場：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=8F503CC3935457E4
+- 2026-11-15 建請縣府妥善規劃竹東生態河濱公園-親水公園（聯通管埋管處）後續場域使用，以提升整體公共空間機能及景觀品質。：https://www.hsinchu.gov.tw/News_Content.aspx?n=3652&s=357283
+- 2026-11-15 何智達議員關心海岸風景特定區規劃 盼加速推動新豐海岸觀光發展：https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357536
+- 2026-11-15 建請縣政府爭取經費拓寬改善寶山鄉水仙路，以維護行車安全及解決道路塞車問題。：https://www.hsinchu.gov.tw/News_Content.aspx?n=3652&s=357406
+- 2026-11-15 桃園新住民暨多元文化故鄉季登場 王副市長：深化文化傳承、打造多元共融城市：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1980239
+- 2026-11-15 老人全民健康保險自付保險費補助：https://society.hccg.gov.tw/ch/home.jsp?id=123&parentpath=0,3,25&mcustomize=onemessages_view.jsp&toolsflag=Y&dataserno=202610220002&t=SocietyOnes&mserno=201603090029
+- 2026-11-15 縣議員上官秋燕總質詢 聚焦竹東學府路拓寬、高齡者假牙補助：https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357533
+- 2026-11-15 市府新聞稿-找的不只是工作，是幸福職涯！北市28家企業釋出1,771職缺月薪5萬、時薪270元搶人才：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=CD7BF26FE3B75329
+- 2026-11-15 竹市六燃文化廊帶保存再利用持續推進 高虹安市長：兼顧歷史建築修復與生態保育：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=203f96f8-1dc1-41c6-894f-28b6c5abdd04
+- 2026-11-15 打造跨系統自動比對及數位法務小幫手 審案件、查法規都有AI幫忙！高虹安市長：竹市智慧地政 雙軌升級：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=69533e0b-52fd-4b50-bf6e-162ae8217eff
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
