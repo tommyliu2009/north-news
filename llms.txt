@@ -4,36 +4,36 @@
 
 - 網址：https://web11.subsidyking.tw/
 - 主題：北部縣市政策與地方新聞
-- 更新：2026-11-16（每日自動更新）
+- 更新：2026-11-17（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-17 天母分館於11月17日至12月31日舉辦「輕旅西歐・書香漫遊」自助借書兌獎及抽獎活動，歡迎一起來暢享閱讀！：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=713292A4A7DD4D2D
+- 2026-11-17 三民書法班115年師生聯展。：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=616B12B4E0A5F074
+- 2026-11-17 配合宣導「宣導115年地方公職人員選舉及全國性公民投票案」：https://police.gov.taipei/News_Content.aspx?n=51887A14CF505E63&s=E0C27B2DBBCACAE2
+- 2026-11-17 沒有權狀的房屋，地價稅也可申請優惠稅率：https://www.klcg.gov.tw/tw/klcg1/3168-324558.html
 - 2026-11-16 新聞資訊-新北替代役青年暖心相伴 老歌賓果、布袋球競賽樂齡同歡：https://www.ca.ntpc.gov.tw/home.jsp?id=7909a03d82ce044c&act=43c8cd4505626cc5&dataserno=595bf7f27c14df9cd94bba9f2b0818ce&mserno=271627cfb738ea8e792f3d907896a560
 - 2026-11-16 峨眉鄉遊程規劃｜搭乘幸福巴士、幸福嗨呀輕鬆遊峨眉：https://emei.hsinchu.gov.tw/News_Content.aspx?n=496&s=116527
-- 2026-11-15 作家與讀者有約講座《傳承財富不留紛爭》：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=1C737ABF22D44CDB
-- 2026-11-15 台北府城隍廟恭祝建廟145週年辦理城隍文化祭於11月23至25日建醮活動：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&s=4F28C4A92D22719E
-- 2026-11-15 籲賴總統不應混淆事實北市建管處：本案已依「建照核准圖」查明違法並懲戒、判刑：https://cmo.gov.taipei/News_Content.aspx?n=2489C7DF2B5C1860&sms=72544237BBE4C5F6&s=8A4BFF068312542E
-- 2026-11-15 市府新聞稿-籲賴總統不應混淆事實北市建管處：本案已依「建照核准圖」查明違法並懲戒、判刑：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=8A4BFF068312542E
-- 2026-11-15 公共行政-何謂總決算?主管決算?單位決算?單位決算之分決算?(1702-20130422-00004)：https://www.tycg.gov.tw/News_Content.aspx?n=97&sms=7923&s=1880815
-- 2026-11-15 推動芎林河濱公園整體規劃，提升地方生活品質。：https://www.hsinchu.gov.tw/News_Content.aspx?n=3653&s=346146
-- 2026-11-15 新設自來水外線補助11/15截止 桃園經發局提醒符合資格家戶別錯過：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=7&sms=7882&s=1892937
-- 2026-11-15 竹市「社區安全安心宣導」圓滿落幕 高虹安市長：警消協力打造安心生活環境：https://www.hccg.gov.tw/hccg/app/data/view?module=isfocusnews&id=30210&serno=3ee33fd4-a055-47d9-8c95-f610cf7de33e
-- 2026-11-15 國外匯款疑點重重 士林警耐心勸阻成功保住民眾積蓄：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=ED587754741DE7C3
-- 2026-11-15 桃園市民聯合婚禮登場 張市長化身幸福列車長祝福88對新人幸福啟航：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1980405
-- 2026-11-15 彭余美玲縣政總質詢 關注竹東重大建設與交通路網：https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357736
-- 2026-11-15 張善政僅出席一次美光勞資協商？桃市府：三場出席兩場 不查證就寫假新聞：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=11&s=1980403
-- 2026-11-15 美光勞資爭議重大進展 張市長多日協調 11/17重回談判桌進入調停程序：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1980241
-- 2026-11-15 全城應援！ 11/15「公車友善心運動」優良駕駛長頒獎典禮隆重登場：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=8F503CC3935457E4
-- 2026-11-15 建請縣府妥善規劃竹東生態河濱公園-親水公園（聯通管埋管處）後續場域使用，以提升整體公共空間機能及景觀品質。：https://www.hsinchu.gov.tw/News_Content.aspx?n=3652&s=357283
-- 2026-11-15 何智達議員關心海岸風景特定區規劃 盼加速推動新豐海岸觀光發展：https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357536
-- 2026-11-15 建請縣政府爭取經費拓寬改善寶山鄉水仙路，以維護行車安全及解決道路塞車問題。：https://www.hsinchu.gov.tw/News_Content.aspx?n=3652&s=357406
-- 2026-11-15 桃園新住民暨多元文化故鄉季登場 王副市長：深化文化傳承、打造多元共融城市：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1980239
-- 2026-11-15 老人全民健康保險自付保險費補助：https://society.hccg.gov.tw/ch/home.jsp?id=123&parentpath=0,3,25&mcustomize=onemessages_view.jsp&toolsflag=Y&dataserno=202610220002&t=SocietyOnes&mserno=201603090029
-- 2026-11-15 縣議員上官秋燕總質詢 聚焦竹東學府路拓寬、高齡者假牙補助：https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=357533
-- 2026-11-15 市府新聞稿-找的不只是工作，是幸福職涯！北市28家企業釋出1,771職缺月薪5萬、時薪270元搶人才：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=CD7BF26FE3B75329
-- 2026-11-15 竹市六燃文化廊帶保存再利用持續推進 高虹安市長：兼顧歷史建築修復與生態保育：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=203f96f8-1dc1-41c6-894f-28b6c5abdd04
-- 2026-11-15 打造跨系統自動比對及數位法務小幫手 審案件、查法規都有AI幫忙！高虹安市長：竹市智慧地政 雙軌升級：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=69533e0b-52fd-4b50-bf6e-162ae8217eff
+- 2026-11-16 桃源國中-臺北市立桃源國中「原生植物園」盛大揭牌 千株樹苗扎根串聯STEAM跨域課程：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=9C7A7E3EF37630F7
+- 2026-11-16 網傳宣傳車未依規定懸掛車牌 北市警依法舉發：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=FDD9C5A11B26C16E
+- 2026-11-16 Wonderful Learning！北市樂齡學習空間優化再添亮點 萬福國小「永樂齋」讓長輩在校園找到第二個家：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=2131F4213FEA1548
+- 2026-11-16 麗山高中-科學立校展實力！麗山高中科學研究成果豐碩 旺宏科學獎獲學校獎暨校長獎：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=2154275FFE8AB3AD
+- 2026-11-16 葫蘆國小-繩采飛揚，躍動自信光芒－葫蘆國小跳繩隊勇奪臺北市中正盃雙料冠軍：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=602A26CC326185B7
+- 2026-11-16 私立育達高中-臺北育達高中多媒體設計科校外抽考 280名學子展現實戰硬實力：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=7DFF6306CC2F5C71
+- 2026-11-16 翻轉學習新世代 智慧共學展成果 116年度徵件培力啟動：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=36AE44E8B5BC0291
+- 2026-11-16 福士蒼汰帶路玩臺北！在臺北遇見國民男友 從東京大阪到臺北街頭打造城市約會：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=4CE11B004C5ADECD
+- 2026-11-16 南港高工-技職學子用英語展實力 南港高工111人獲酷英口說達人肯定：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=47D3475D03F3D85E
+- 2026-11-16 瑠公國中-圳愛瑠公．螢光再現──螢火蟲野放：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=CF78BF93BD1292F7
+- 2026-11-16 臺北客語動畫《糖ㄅㄅ》閃耀國際！勇奪第31屆亞洲電視大獎最佳學齡前兒童節目獎：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=87067B4B1367A1A2
+- 2026-11-16 「我的減碳存摺2.0」11月獎項好禮公布啦！ 還有藝術風格證件套、陶瓷杯墊等萬用生活小物等你拿!：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=0FF09B7063E3B770
+- 2026-11-16 配合「2026臺北溫泉季」活動交通管制，公車配合調整措施：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=C21798F85BED01D4
+- 2026-11-16 天冷安心泡湯，水質有把關 提醒民眾「安心泡湯4招」：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=BD3BBFD7FC8E7BE6
+- 2026-11-16 私立育達高中-臺北育達高中觀光事業科捷報 勇奪2026臺灣旅館節全國餐旅服務競賽季軍：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=FAFAE8CAACF633C1
+- 2026-11-16 北市推財商挑戰活動 鍛造孩子的金融素養與財務免疫力：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=0AA767EAE2E46F04
+- 2026-11-16 求平安卡也沒用！中正二警埋伏逮詐欺車手：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=C7FB2145EAE6D76A
+- 2026-11-16 找的不只是工作，是幸福職涯！北市28家企業釋出1,771職缺 月薪5萬、時薪270元搶人才：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=CD7BF26FE3B75329
+- 2026-11-16 115年10月北市批發市場蔬果農藥殘留抽驗結果：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=3D1C14E1ECA058D9
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
