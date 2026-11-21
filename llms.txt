@@ -4,36 +4,36 @@
 
 - 網址：https://web11.subsidyking.tw/
 - 主題：北部縣市政策與地方新聞
-- 更新：2026-11-21（每日自動更新）
+- 更新：2026-11-22（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-22 活動主題館-總館每月一書講座─蔡政修《古生物學家在幹嘛》：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=F4D276DB9D8903B1
+- 2026-11-22 北市圖書車年度壓軸登場 12/5前進臺灣閱讀節享戶外書香：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=C3807F22328236A4
+- 2026-11-22 總館每月一書講座─蔡政修《古生物學家在幹嘛》：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=F4D276DB9D8903B1
 - 2026-11-21 別因戶籍遷出，讓您的地價稅變貴：https://www.klcg.gov.tw/tw/klcg1/3168-324636.html
-- 2026-11-20 本局勞動大學系統、線上活動報名系統、勞動臺北電子報暫停服務中，敬請見諒：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=5E33FD8BE4C3C1E2
-- 2026-11-20 「預算查詢服務平臺」、「預算視覺化網站」及「臺北市統計資料庫查詢系統」等暫停服務通知 (同步至本府官網下之市政資料館)：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=61FB2A2E479852DB
-- 2026-11-20 116年度臺北市參與式預算提案說明會暨住民大會辦理資訊一覽表：https://zs.land.gov.taipei/News_Content.aspx?n=B73035865EAEBA04&sms=78D644F2755ACCAA&s=E71B79A047E5C88A
-- 2026-11-20 國立中央大學天文所訂於115年12月1日辦理線上講座：《國際科學 教育論壇系列24》—— 「Brain, AI and Education」：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=1AB62ED9584FFA18
-- 2026-11-20 臺北廣播電臺12/6 15:00-1700舉辦「邁向116—幸福滿滿演唱會」：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=EA9B5FF0363178B1
-- 2026-11-20 宜蘭縣政府辦理116年度青年百億海外圓夢基金計畫「M-2-11越飛南向：數位研發實戰」：https://ilwct.e-land.gov.tw/News_Content.aspx?n=6499&s=413086
-- 2026-11-20 興德國小-興德國小附幼探索關渡靜思堂環保防災教育，在體驗中學習、在感恩中成長：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=607EE6A58C62370A
-- 2026-11-20 基隆市「Blooming Love」特教才藝競賽八斗國小溫馨登場：https://www.klcg.gov.tw/tw/klcg1/3168-324874.html
-- 2026-11-20 臺北市棒球隊116年度打擊教練遴選：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=0D979D9088877072
-- 2026-11-20 臺北廣播電臺「邁向116—幸福滿滿演唱會」宣傳：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=6FA5995E86AA114D
-- 2026-11-20 市府新聞稿-臺北市教學卓越獎穿金戴銀，東園附幼從鐵花窗看見家鄉故事：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=652EC59DFBABAFCA
-- 2026-11-20 市府新聞稿-產官學攜手精進道路養護管理臺北市115年度道路考評成果研討會圓滿落幕：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=D7777EA70B2B17DD
-- 2026-11-20 針對社群關注故宮園區內已有光電板設置情形說明：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=35745C602EED4D4A
-- 2026-11-20 北市府攜手資誠助攻新創出海！創投、專業顧問及科技企業齊聚Meet Taipei 解析國際布局關鍵策略：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=DAB16E6ABC0AB75E
-- 2026-11-20 115年1至10月大型廢棄物線上申請達10,488件 基隆環保局提供24小時智慧清運申請服務：https://www.klepb.klcg.gov.tw/tw/klepb1/3886-324952.html
-- 2026-11-20 基隆公廁品質再升級！三大類組9處績優公廁獲獎：https://www.klcg.gov.tw/tw/klcg1/3168-324953.html
-- 2026-11-20 消費爭議調解與刑事偵查、行政究責有別 法務局：夏莉絲案調解是受理家長所提與業者之民事消費爭議：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=55DD59AF7CEE481F
-- 2026-11-20 市府新聞稿-臺北市立大學-北市大攜手名間鄉推動「藝茗茶香」 邱英浩：讓好茶與在地故事走向世界：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=60C5F0ADD32C9F2C
-- 2026-11-20 市府新聞稿-私立育達高中-臺北育達高中奪臺北市第27屆行動研究學校團體獎教育專業深耕有成：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=C2D76289D7C35A5B
-- 2026-11-20 環境知識全國爭鋒！ 新北20名菁英出征勇奪佳績 扎根淨零與永續素養 展現全齡環境教育豐碩成果：https://www.epd.ntpc.gov.tw/Announcement/fn?PageType=1&id=e2b6bebc-adcb-44cd-ac63-a4de43f47961
-- 2026-11-20 私立育達高中-資深 Coser 兼動漫音樂人「泣花冥（Dr. Hana）」蒞臺北育達動漫社授課：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=CEBA85638A97F946
-- 2026-11-20 🌿 【11/29】永續生活・五感山林慢時光 走進竹子湖，收藏一段山林的美好時光：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=44E3527A9E8CFD7D
-- 2026-11-20 一般公告-【轉知】財團法人海峽交流基金會「2027海基會青年挑戰營」相關資訊：https://www.doe.gov.taipei/News_Content.aspx?n=9AA0CC873BD001A2&s=2608640261E7F37E
-- 2026-11-20 【參與式預算】116年度臺北市參與式預算提案說明會暨住民大會辦理資訊一覽表。：https://whhr.gov.taipei/News_Content.aspx?n=7FA3885DE72068AE&sms=D00454FC8801C0CD&s=CE283083540E7D1E
+- 2026-11-21 轉知新竹縣政府「農業職業災害預防宣導」(預防樣態：跌 倒/墜落、滾落/被刺、割、擦傷)海報：https://guanxi.hsinchu.gov.tw/News_Content.aspx?n=1814&s=118019
+- 2026-11-21 地瓜飄香、親子同樂！竹市勞工成果展暨焢窯活動 逾600人共度幸福時光：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=46d93327-fb21-4a0e-a1ac-6c203d60759e
+- 2026-11-21 風城花漾盛典圓滿落幕！首屆2026茶花公主選拔揭曉 卓文萱壓軸獻唱吸引民眾熱情參與：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=108110d9-fbe5-4a10-906e-865293c0892b
+- 2026-11-21 基隆市衛生局導入遊戲化引導與生成式AI 培力醫事人員精進長者內在能力檢測服務效能：https://www.klchb.klcg.gov.tw/tw/klchb/1362-324964.html
+- 2026-11-21 2026根與芽濕地嘉年華登場！從認識自然出發 多元體驗培養生態保育觀念：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=c6fa1ad5-341f-4b07-bf56-59a42e255167
+- 2026-11-21 平鎮區農特產品推廣行銷 蘇俊賓：市府攜手農會營造優質發展條件 提升桃園農業競爭力：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1998584
+- 2026-11-21 逢甲校友凝聚愛心捐贈福祉車 王副市長肯定校友回饋地方：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1998585
+- 2026-11-21 桃園原住民族部落大學成果展登場 張市長：深化文化傳承、培育原民人才：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1998583
+- 2026-11-21 讓城市願望成為行動！竹市政策黑客松百位青年攜手解題 共創智慧城市：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=38c8a131-1eaf-4133-8eae-6028e931b92d
+- 2026-11-21 竹市攜手肝基會推免費護肝篩檢！200位市民受惠 打造健康防護網：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=0fab712f-7c29-4471-b8cd-2785c669f7db
+- 2026-11-21 2026竹塹文學獎頒獎典禮登場！見證風城文學多元蓬勃力量：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=dd07a2f6-e027-4666-b75c-28e27885a33e
+- 2026-11-21 【重要公告】博嘉運動公園溫水游泳池暫停開放通知：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=9E5B0882EC769536
+- 2026-11-21 市府新聞稿-雙園九十載杏壇真精彩—臺北市萬華區雙園國民小學90週年校慶體育表演會：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=BDE04D93CB8F694B
+- 2026-11-21 全球首創機場WCA盲解與最少步數賽第四屆桃機「飛機盃」245名跨國好手齊聚國門展現頂尖對決：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=7&s=1998559
+- 2026-11-21 市府新聞稿-臺北市大同區大龍國民小學130週年校慶運動會：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=D8AFCDAAA5A3D1D4
+- 2026-11-21 水電修繕不求人？從生活技能到專業職能 北市職能學院116年1月開辦水電技術班：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=59C8F4DD1008CDB0
+- 2026-11-21 桃園航空城記憶常在 共築未來利百代：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=7&s=1988781
+- 2026-11-21 教育部教學卓越獎揭曉！竹市水源國小奪金、東園附幼摘銀 探索在地與生命教育 展現「新竹好學」創新實力：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=3823a5a0-b7cf-4539-a691-f73ca9831eda
+- 2026-11-21 金星亮度達全年高峰，超級滿月接力登場：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=3D8969A90EEDE31A
+- 2026-11-21 夏莉絲學費退款調解會 北市府法務局:充分尊重家長意願 11/27如期召開：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=792026D6A9A86E6E
+- 2026-11-21 從國際取經到在地創新 讓世界看見臺北！日本東京藤幼兒園園長參訪北市幼兒STEAM創思中心：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=934609DFB0E28361
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
