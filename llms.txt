@@ -4,36 +4,36 @@
 
 - 網址：https://web11.subsidyking.tw/
 - 主題：北部縣市政策與地方新聞
-- 更新：2026-11-23（每日自動更新）
+- 更新：2026-11-24（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-24 新竹市政府地政處：https://land.hccg.gov.tw/news/?mode=data&id=1013&parent_id=10004&type_id=10588&vc=05c4b0ebe3c85697f0d2c54330d158e4
+- 2026-11-24 115年新竹市優良不動產從業人員評選結果公告：https://land.hccg.gov.tw/news/?mode=data&id=1155&parent_id=10004&type_id=10653&vc=1b4927cc3fe86943794a7b6700386434
+- 2026-11-24 配合115年11月23日至12月3日平日文山區貓空地區路面更新工程公車調整措施：https://dot.gov.taipei/News_Content.aspx?n=D739A9F6B5C0AB95&s=48613522284F0C3F
+- 2026-11-24 115年11月23日起未來4週重大活動及施工多使用大眾運輸，減碳又輕鬆：https://dot.gov.taipei/News_Content.aspx?n=D739A9F6B5C0AB95&s=8B38B22B56A1D01D
+- 2026-11-24 適用地價稅優惠稅率，不以一處為限！：https://www.klcg.gov.tw/tw/klcg1/3168-324642.html
 - 2026-11-23 新聞資訊-傳承百年文化 三重北巡先天宮王船祭登場：https://www.ca.ntpc.gov.tw/home.jsp?id=7909a03d82ce044c&act=43c8cd4505626cc5&dataserno=11ddb91e411912ace8efa036b1025173&mserno=271627cfb738ea8e792f3d907896a560
 - 2026-11-23 活動主題館-建成分館12月「雙連電影院」精選好片上映：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=0D7587617A586EC2
 - 2026-11-23 活動主題館-民生分館「紙上聖誕派對：聽故事、做手工書的溫馨時光」親子講座，歡迎報名！：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=62B8219281D3B08C
-- 2026-11-22 活動主題館-總館每月一書講座─蔡政修《古生物學家在幹嘛》：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=F4D276DB9D8903B1
-- 2026-11-22 北市圖書車年度壓軸登場 12/5前進臺灣閱讀節享戶外書香：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=C3807F22328236A4
-- 2026-11-22 總館每月一書講座─蔡政修《古生物學家在幹嘛》：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=F4D276DB9D8903B1
-- 2026-11-22 新竹政策黑客松冠軍出爐！百位青年48小時挑戰AI城市治理 創新提案打造風城新視角：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=25abf017-6080-428f-af8e-8667e39ab890
-- 2026-11-22 失智症防治照護政策綱領暨行動方案3.0：https://www.zhongli-hro.tycg.gov.tw/News_Content.aspx?n=12503&s=1985806
-- 2026-11-22 出席金鑽獎優良志工表揚大會 林奕華：讓良善成為城市的一道光：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=2344997493607C7A
-- 2026-11-22 民生東路都市更新案依法辦理 北市府：持續關懷住戶安置、兼顧各方權益：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=3BDF654563FB1F25
-- 2026-11-22 三十好景．眾志成光 臺北市第30屆金鑽獎向志工典範致敬：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=C07ADF2A9DB721E8
-- 2026-11-22 2026臺北北投花浴衣節跨界聯手永樂布藝演繹和風美學日本「北海道Yosakoi平岸天神」舞團精彩獻藝：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=CF0E77D8E900DA3C
-- 2026-11-22 投出健康 擲得快樂！第二屆全國布袋球競賽竹市西門國小熱血登場：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=6f394edf-9abd-41f4-ab46-db2f49728b0e
-- 2026-11-22 動物園呼籲遊客遵守參觀須知 共同維護動物安全：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=4ADFFC0961EDCAF2
-- 2026-11-22 市府新聞稿-餐飲職人月薪上看6.45萬！北市836職缺搶人才高薪、獎金、彈性工時一次到位：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=7905F3EC529E841E
-- 2026-11-22 竹市社區規劃師培力結合環境觀察與手作實踐 培養在地行動力 共創友善宜居家園：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=601cc38e-899a-4ac0-b19b-8fa78529160e
-- 2026-11-22 【破解網路世代親子距離 陪伴家長找回陪伴契機】：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=6FC6E7464FA94122
-- 2026-11-22 非六都僅四所國小！關埔國小榮獲全國品德教育特色學校 親師生展現「讓世界更美好」的實踐力：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=c140b0b1-870e-44b5-9b2f-93b411addcae
-- 2026-11-22 打造堅實防線！教育局正式成立「校園霸凌防制輔導團」，首創法律、諮詢、宣導三合一專業支援第一線：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=B08A8A56C144C149
-- 2026-11-22 關島Maria A. Ulloa小學親師生走進臺北原教中心 展開Chamorro族尋根交流之旅：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=A16739C4A9B3EB39
-- 2026-11-22 公告「臺北市第15屆里長選舉候選人名單、競選活動之起、止日期及每日競選活動之起、止時間」：https://xydo.gov.taipei/News_Content.aspx?n=001B0D1EE1774A08&sms=09CB5785EC96F36A&s=BAD34003FC199C94
-- 2026-11-22 Empowering the Future t.Hub 2026國際交流會暨投資媒合會圓滿落幕：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=B73586B673793A6E
-- 2026-11-21 別因戶籍遷出，讓您的地價稅變貴：https://www.klcg.gov.tw/tw/klcg1/3168-324636.html
-- 2026-11-21 轉知新竹縣政府「農業職業災害預防宣導」(預防樣態：跌 倒/墜落、滾落/被刺、割、擦傷)海報：https://guanxi.hsinchu.gov.tw/News_Content.aspx?n=1814&s=118019
-- 2026-11-21 地瓜飄香、親子同樂！竹市勞工成果展暨焢窯活動 逾600人共度幸福時光：https://www.hccg.gov.tw/hccg/app/know/view?module=municipalnews&id=30122&serno=46d93327-fb21-4a0e-a1ac-6c203d60759e
+- 2026-11-23 116年度蘆竹區原住民族集會所委外清潔維護採購案：https://www.luzhu.tycg.gov.tw/News_Content.aspx?n=9037&s=1998813
+- 2026-11-23 本市歷史建築「國立政治大學四維堂、志希樓、果夫樓」修復及再利用計畫說明會：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=FA01A0A319F34E68
+- 2026-11-23 居家蜂蛇困擾，請撥打1999！：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=EFBF068D0DD3E594
+- 2026-11-23 市府新聞稿-秋冬交替虎頭蜂敏感易怒！北市動保處提醒登山健行加強防護：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=F60305335C1020B8
+- 2026-11-23 桃園市影視政策深耕影視產業有成耀眼金馬63 《為愛和聲——陽光女子合唱團》勇奪最佳女配角展現城市影像豐沛能量：https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1998805
+- 2026-11-23 活動主題館-南港東明站-11/26下午2-4點【頂呱呱國際/愛關懷居家/南港老爺酒店/大全聯內湖店】小徵：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=9EAB7F207CE44B26
+- 2026-11-23 竹市推「新竹通」違規推播提醒！科技助民眾改善用路習慣 數據分析精進交通治理：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=8f26ca50-c53a-45cb-b06f-5dae253f04ab
+- 2026-11-23 市府新聞稿-市場處攜手延三夜市、全支付及台灣Pay 辦理消費享回饋及抽好禮活動嗶出美食商機：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=919D93DC9A4020BD
+- 2026-11-23 【活動轉知】第13屆中國信託金融園區戶外滑冰場公益活動，歡迎學校及公益團體踴躍預約參加：https://www.doe.gov.taipei/News_Content.aspx?n=9AA0CC873BD001A2&s=9C3F5D0B102D9929
+- 2026-11-23 私立育達高中-臺北育達高中寵物造型實驗班 攜手講師與退役狗醫生傳遞生命教育：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=0802E0BF33C45810
+- 2026-11-23 私立育達高中-臺北育達高中攜手斑馬人演劇團宣導愛滋防治 寓教於樂守護青春健康：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=584880CCB6FC0A02
+- 2026-11-23 中山幼兒園-中山幼兒園-彩繪童年、大FUN異彩為35週年增添色彩：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=0754F3E7C3724B64
+- 2026-11-23 強化安置機構稽查！基隆落實兒少權益保障，提升照顧品質：https://www.klcg.gov.tw/tw/klcg1/3168-325024.html
+- 2026-11-23 公告「116年新竹市培育演藝團隊發展補助實施計畫」修正計畫：https://culture.hccg.gov.tw/ch/home.jsp?id=8&parentpath=0,1&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=202611230003&t=MunicipalNews&mserno=202605190001
+- 2026-11-23 【協助宣傳】12/6臺北電臺邁向116幸福滿滿演唱會11/27開放索票詳見電臺官網或臉書：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=EEDC5B56048AB861
+- 2026-11-23 為辦理115年地方公職人員選舉及全國性公民投票，115年11月27日（星期五）部分櫃台暫停服務及調整業務辦理方式，敬請見諒。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=E6963694BF079CB7
+- 2026-11-23 116年場地租借及休假公告，請詳閱內文及附件電子檔案。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=160FA818D04BEC29
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
