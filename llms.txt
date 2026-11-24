@@ -4,36 +4,36 @@
 
 - 網址：https://web11.subsidyking.tw/
 - 主題：北部縣市政策與地方新聞
-- 更新：2026-11-24（每日自動更新）
+- 更新：2026-11-25（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-25 洄流書海，歲月留香：王貫英紀念圖書館「洄流閱讀・冬至平安」樂齡閱讀活動：https://eoc.gov.taipei/News/Detail/1754
+- 2026-11-25 城中分館歲末獻驚喜，「悅讀1+7」借閱抽獎活動熱烈開跑！：https://eoc.gov.taipei/News/Detail/1753
+- 2026-11-25 藝文活動-舊莊分館「世界麵包旅行」主題書展開跑囉！：https://tpml.gov.taipei/News_Content.aspx?n=3951678DEC0A8461&sms=9D72E82EC16F3E64&s=12CFDC34B9BA8D01
+- 2026-11-25 活動主題館-王貫英先生紀念圖書館12月「週六童樂會-兒童影片欣賞」：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=23F19B205664FC71
+- 2026-11-25 活動主題館-城中分館歲末獻驚喜，「悅讀1+7」借閱抽獎活動熱烈開跑！：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=9AB9EEC65CBD67E8
+- 2026-11-25 活動主題館-永春分館《AI影片輕鬆做，真假訊息看得懂：生活思辨與防詐實戰課》~歡迎報名!：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=BC3AF27EF884523F
+- 2026-11-25 活動主題館-總館「書蟲出任務：數位尋寶大冒險」電子書推廣主題限定活動，歡迎參加！：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=377E439ACF000AE4
+- 2026-11-25 活動主題館-舊莊分館「世界麵包旅行」主題書展開跑囉！：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=12CFDC34B9BA8D01
+- 2026-11-25 購買停車位，也可申請地價稅優惠稅率：https://www.klcg.gov.tw/tw/klcg1/3168-324643.html
 - 2026-11-24 新竹市政府地政處：https://land.hccg.gov.tw/news/?mode=data&id=1013&parent_id=10004&type_id=10588&vc=05c4b0ebe3c85697f0d2c54330d158e4
 - 2026-11-24 115年新竹市優良不動產從業人員評選結果公告：https://land.hccg.gov.tw/news/?mode=data&id=1155&parent_id=10004&type_id=10653&vc=1b4927cc3fe86943794a7b6700386434
 - 2026-11-24 配合115年11月23日至12月3日平日文山區貓空地區路面更新工程公車調整措施：https://dot.gov.taipei/News_Content.aspx?n=D739A9F6B5C0AB95&s=48613522284F0C3F
 - 2026-11-24 115年11月23日起未來4週重大活動及施工多使用大眾運輸，減碳又輕鬆：https://dot.gov.taipei/News_Content.aspx?n=D739A9F6B5C0AB95&s=8B38B22B56A1D01D
 - 2026-11-24 適用地價稅優惠稅率，不以一處為限！：https://www.klcg.gov.tw/tw/klcg1/3168-324642.html
-- 2026-11-23 新聞資訊-傳承百年文化 三重北巡先天宮王船祭登場：https://www.ca.ntpc.gov.tw/home.jsp?id=7909a03d82ce044c&act=43c8cd4505626cc5&dataserno=11ddb91e411912ace8efa036b1025173&mserno=271627cfb738ea8e792f3d907896a560
-- 2026-11-23 活動主題館-建成分館12月「雙連電影院」精選好片上映：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=0D7587617A586EC2
-- 2026-11-23 活動主題館-民生分館「紙上聖誕派對：聽故事、做手工書的溫馨時光」親子講座，歡迎報名！：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=62B8219281D3B08C
-- 2026-11-23 116年度蘆竹區原住民族集會所委外清潔維護採購案：https://www.luzhu.tycg.gov.tw/News_Content.aspx?n=9037&s=1998813
-- 2026-11-23 本市歷史建築「國立政治大學四維堂、志希樓、果夫樓」修復及再利用計畫說明會：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=FA01A0A319F34E68
-- 2026-11-23 居家蜂蛇困擾，請撥打1999！：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=EFBF068D0DD3E594
-- 2026-11-23 市府新聞稿-秋冬交替虎頭蜂敏感易怒！北市動保處提醒登山健行加強防護：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=F60305335C1020B8
-- 2026-11-23 桃園市影視政策深耕影視產業有成耀眼金馬63 《為愛和聲——陽光女子合唱團》勇奪最佳女配角展現城市影像豐沛能量：https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1998805
-- 2026-11-23 活動主題館-南港東明站-11/26下午2-4點【頂呱呱國際/愛關懷居家/南港老爺酒店/大全聯內湖店】小徵：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=9EAB7F207CE44B26
-- 2026-11-23 竹市推「新竹通」違規推播提醒！科技助民眾改善用路習慣 數據分析精進交通治理：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30122&serno=8f26ca50-c53a-45cb-b06f-5dae253f04ab
-- 2026-11-23 市府新聞稿-市場處攜手延三夜市、全支付及台灣Pay 辦理消費享回饋及抽好禮活動嗶出美食商機：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=919D93DC9A4020BD
-- 2026-11-23 【活動轉知】第13屆中國信託金融園區戶外滑冰場公益活動，歡迎學校及公益團體踴躍預約參加：https://www.doe.gov.taipei/News_Content.aspx?n=9AA0CC873BD001A2&s=9C3F5D0B102D9929
-- 2026-11-23 私立育達高中-臺北育達高中寵物造型實驗班 攜手講師與退役狗醫生傳遞生命教育：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=0802E0BF33C45810
-- 2026-11-23 私立育達高中-臺北育達高中攜手斑馬人演劇團宣導愛滋防治 寓教於樂守護青春健康：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=584880CCB6FC0A02
-- 2026-11-23 中山幼兒園-中山幼兒園-彩繪童年、大FUN異彩為35週年增添色彩：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=0754F3E7C3724B64
-- 2026-11-23 強化安置機構稽查！基隆落實兒少權益保障，提升照顧品質：https://www.klcg.gov.tw/tw/klcg1/3168-325024.html
-- 2026-11-23 公告「116年新竹市培育演藝團隊發展補助實施計畫」修正計畫：https://culture.hccg.gov.tw/ch/home.jsp?id=8&parentpath=0,1&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=202611230003&t=MunicipalNews&mserno=202605190001
-- 2026-11-23 【協助宣傳】12/6臺北電臺邁向116幸福滿滿演唱會11/27開放索票詳見電臺官網或臉書：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=EEDC5B56048AB861
-- 2026-11-23 為辦理115年地方公職人員選舉及全國性公民投票，115年11月27日（星期五）部分櫃台暫停服務及調整業務辦理方式，敬請見諒。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=E6963694BF079CB7
-- 2026-11-23 116年場地租借及休假公告，請詳閱內文及附件電子檔案。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=160FA818D04BEC29
+- 2026-11-24 Arteen Taoyuan兒少藝術畫展頒獎典禮 王副市長：透過藝術陪伴孩子勇敢追夢：https://sab.tycg.gov.tw/News_Content.aspx?n=7303&s=1999111
+- 2026-11-24 青年發展署第4屆「青年志工行動競賽表揚計畫（青志獎）」即日起至12月21日中午12時止受理線上報名：https://youth.tycg.gov.tw/News_Content.aspx?n=11581&s=1967193
+- 2026-11-24 【轉知】桃園市政府文化局辦理「115年桃園市博物館與地方文化館運籌機制專業輔導執行案」第6屆「桃園市民學藝員」招募活動：https://youth.tycg.gov.tw/News_Content.aspx?n=11581&s=1967198
+- 2026-11-24 【轉知】內政部移民署「新住民培力發展資訊網站官方LINE帳號」宣導圖卡：https://youth.tycg.gov.tw/News_Content.aspx?n=11581&s=1985812
+- 2026-11-24 桃園山林步道巡護志工隊成立7週年 張市長：公私協力完善山林步道維護機制：https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1999141
+- 2026-11-24 宜蘭縣政府地政處再獲內政部雙項大獎肯定 地政業務績優、公地放領展成果，蘭ㄟ厝、咱來顧！：https://www.e-land.gov.tw/News_Content.aspx?n=11419&s=412824
+- 2026-11-24 挺社區、顧長輩！宜蘭長青食堂加發一個月補助：https://www.e-land.gov.tw/News_Content.aspx?n=11419&s=412973
+- 2026-11-24 有關受僱者提出性別平等工作法申訴遭不利處分案 桃市府依法裁處並要求改善：https://lhrb.tycg.gov.tw/News_Content.aspx?n=4860&s=1999136
+- 2026-11-24 116年度環保車輛輪胎維修開口契約：https://tyoem.tycg.gov.tw/News_Content.aspx?n=21954&s=1999090
+- 2026-11-24 115年11月27、28日市政府周邊道路舉辦集會活動實施交通管制說明：https://police.gov.taipei/News_Content.aspx?n=0B762199E50C4AB2&sms=72544237BBE4C5F6&s=6D0670EAA89DF803
+- 2026-11-24 財團法人南投縣鄉讚文化藝術基金會「【鄉讚】第一屆116年度竹藝美學設計競賽」徵件訊息：https://culture.tycg.gov.tw/News_Content.aspx?n=11104&s=1999028
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
