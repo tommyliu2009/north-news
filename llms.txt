@@ -4,36 +4,36 @@
 
 - 網址：https://web11.subsidyking.tw/
 - 主題：北部縣市政策與地方新聞
-- 更新：2026-11-26（每日自動更新）
+- 更新：2026-11-28（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-26 116年度臺北市大安區公民養成提案說明會暨住民大會開放報名！：https://sldo.gov.taipei/News_Content.aspx?n=7864DAFE10F90EFD&sms=E14FAF743E8F8DE1&s=F5F57B6EC924A612
-- 2026-11-26 【平溪分館】2026銀髮融合服務計畫「銀髮族健康玩！」系列活動12/5-12/30：https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=98128986ed3049a59559777b433e0c0b
-- 2026-11-26 活動主題館-總館小小世界「咚咚！打開日文繪本之門」-日文故事時間，歡迎參加!：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=05ABBE1CCA91607D
-- 2026-11-26 公告本市大安區大安路一段206巷平面停車場，自115年11月25日（星期三）起納入收費管理。：https://dot.gov.taipei/News_Content.aspx?n=5BC98CB1A76B5FDD&sms=78D644F2755ACCAA&s=A37D69481017E610
-- 2026-11-26 本所辦理「115年南澳鄉聖誕樂響音樂市集暨文化體驗活動」：https://www.nanao.e-land.gov.tw/News_Content.aspx?n=13328&sms=13562&s=413354
-- 2026-11-25 洄流書海，歲月留香：王貫英紀念圖書館「洄流閱讀・冬至平安」樂齡閱讀活動：https://eoc.gov.taipei/News/Detail/1754
-- 2026-11-25 城中分館歲末獻驚喜，「悅讀1+7」借閱抽獎活動熱烈開跑！：https://eoc.gov.taipei/News/Detail/1753
-- 2026-11-25 藝文活動-舊莊分館「世界麵包旅行」主題書展開跑囉！：https://tpml.gov.taipei/News_Content.aspx?n=3951678DEC0A8461&sms=9D72E82EC16F3E64&s=12CFDC34B9BA8D01
-- 2026-11-25 活動主題館-王貫英先生紀念圖書館12月「週六童樂會-兒童影片欣賞」：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=23F19B205664FC71
-- 2026-11-25 活動主題館-城中分館歲末獻驚喜，「悅讀1+7」借閱抽獎活動熱烈開跑！：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=9AB9EEC65CBD67E8
-- 2026-11-25 活動主題館-永春分館《AI影片輕鬆做，真假訊息看得懂：生活思辨與防詐實戰課》~歡迎報名!：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=BC3AF27EF884523F
-- 2026-11-25 活動主題館-總館「書蟲出任務：數位尋寶大冒險」電子書推廣主題限定活動，歡迎參加！：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=377E439ACF000AE4
-- 2026-11-25 活動主題館-舊莊分館「世界麵包旅行」主題書展開跑囉！：https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=12CFDC34B9BA8D01
-- 2026-11-25 購買停車位，也可申請地價稅優惠稅率：https://www.klcg.gov.tw/tw/klcg1/3168-324643.html
-- 2026-11-25 中國信託戶外滑冰場公益活動計劃：https://dosw.gov.taipei/News_Content.aspx?n=608B0063E06ED4B8&sms=BAA21C7463887E87&s=AC0AF0399DC0E101
-- 2026-11-25 本府消息-116年職能進修課程「室內配線實務」報名資料補件方式調整：https://doit.gov.taipei/News_Content.aspx?n=E3D88B653EACBF6E&sms=78D644F2755ACCAA&s=E31113E7545202E3
-- 2026-11-25 公告本市萬華區「華中橋堤外（三）平面停車場」，自115年11月16日（星期一）起納入收費管理。：https://pma.gov.taipei/News_Content.aspx?n=E43F2E5AE1223B3D&sms=78D644F2755ACCAA&s=DA8BDB4D4CF9C30A
-- 2026-11-25 準備族語認證也能邊玩邊練！臺北市推出族語獵人線上闖關競賽練功，備考影音指引成助力：https://www.ipc.gov.taipei/News_Content.aspx?n=C21A4078A73765A1&sms=72544237BBE4C5F6&s=869F2115CF3F7E3E
-- 2026-11-25 臺北市家庭教育中心親密關係工作坊系列「親在人生～情感智慧與幸福關係」將婚課程：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=849DAD3A1C9C8B66
-- 2026-11-25 本府「臺北交通安心行計畫」4年成果：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=E397722CC85CC8AA
-- 2026-11-25 轉知本縣辦理「115年青年創新創業培育計畫-第五屆青春靚點子學生創業挑戰賽」活動 - 新竹縣政府-政風處：https://ethics.hsinchu.gov.tw/News_Content.aspx?n=662&s=341778
-- 2026-11-25 活動主題館-樂齡談天活動【最大滿月(12/24最大滿月)】：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=D81ED172A54A7223
-- 2026-11-25 【活動資訊】115年「獅耀寒冬歷險記」冬令營：https://www.doe.gov.taipei/News_Content.aspx?n=9AA0CC873BD001A2&s=B3B7CAEFE32826C7
-- 2026-11-25 【賽事資訊】2027理事長盃全國壘球錦標賽：https://www.doe.gov.taipei/News_Content.aspx?n=9AA0CC873BD001A2&s=F4541CE53487E297
-- 2026-11-25 【活動資訊】「日本×台灣－她們的棒球時代！」文化講座活動：https://www.doe.gov.taipei/News_Content.aspx?n=9AA0CC873BD001A2&s=55A1117F9FE3C377
+- 2026-11-28 「吳興街260巷及284巷18弄排水改善工程」 115/11/30-116/7/27 因分段施工封閉：https://pwd.gov.taipei/News_Content.aspx?n=5C3C29C78077C93E&sms=72544237BBE4C5F6&s=534EF1A09EC01010
+- 2026-11-28 《身心障礙者權利公約 第3次國家報告易讀版》：https://www.nanao.e-land.gov.tw/News_Content.aspx?n=13328&s=413503
+- 2026-11-28 「百花燈影在竹塹」蕭在淦藝師百歲紀念花燈特展專題講座：https://culture.hccg.gov.tw/ch/home.jsp?id=8&parentpath=0,1&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=202611270003&t=MunicipalNews&mserno=201601300140
+- 2026-11-27 臺北4年節電逾4.7億度！ 公私協力讓節能成果化為暖心照護：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=1694CCF6F68091D2
+- 2026-11-27 不實謠言稱慈雲空橋電費由社區出 竹市府駁斥：具公益及公共性 電費由市府支應：https://www.hccg.gov.tw/hccg/app/data/view?module=municipalnews&id=30207&serno=80209338-4c75-47eb-a5a7-cf93767f5eb3
+- 2026-11-27 桃園市政府衛生局辦理「115年桃園市牙醫醫療機構關於醫療品質、病人安全及醫療暴力之業務宣導講座」，請積極鼓勵所屬會員參加。：https://dph.tycg.gov.tw/News_Content.aspx?n=4219&s=2005023
+- 2026-11-27 農地遭法院拍賣也能不課徵土地增值稅？把握30日申請期限！：https://tytax.tycg.gov.tw/News_Content.aspx?n=4436&s=2004814
+- 2026-11-27 活動訊息- 南港東明站-12/03(四)下午2-4點辦理【頑味國際餐飲/台灣頂巧餐飲(德克士炸雞)/萬金工程】小徵：https://eso.gov.taipei/News_Content.aspx?n=903FC867A1BF76F3&sms=9D72E82EC16F3E64&s=B4C53BC2621A900E
+- 2026-11-27 《人間有味》飲食文學講座：https://tylm.tycg.gov.tw/tylm/wSite/ct?xItem=CAL_2c94830da1a08a8301a21c9269230039&detail=2c94830da1a08a8301a21c9269230039&ctNode=38190&mp=1
+- 2026-11-27 因應115年11月29日「2026 GARMIN RUN 馬拉松系列賽-臺北站」活動交通管制，公車配合調整措施：https://pto.gov.taipei/News_Content.aspx?n=D065CCB1467288C8&sms=72544237BBE4C5F6&s=7E1EEA5952AD1DE1
+- 2026-11-27 公告「臺北市115學年度STEAM及新科技教育學生國際參訪見學團」計畫一案：https://www.doe.gov.taipei/News_Content.aspx?n=8E040C375C754678&sms=78D644F2755ACCAA&s=84FFFE57DD69ABF5
+- 2026-11-27 凱道集會活動周邊車多回應說明：https://police.gov.taipei/News_Content.aspx?n=0B762199E50C4AB2&sms=72544237BBE4C5F6&s=B785B83F23468FD0
+- 2026-11-27 南港東明站-12/03(四)下午2-4點辦理【頑味國際餐飲/台灣頂巧餐飲(德克士炸雞)/萬金工程】小徵：https://www.gov.taipei/News_Content.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64&s=B4C53BC2621A900E
+- 2026-11-27 【公告】內政部戶政司全球資訊網將於115年12月4日（星期五）19時30分至23時進行系統版本更新作業，該時段各項服務均暫停。：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=3FC5AC5DFC84B09C
+- 2026-11-27 夏莉絲幼兒園及托嬰中心案 北市府累計裁罰328萬元 皆依法從嚴究責 守護幼兒權益：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=018A14713B8AC3EA
+- 2026-11-27 大安高工-大安高工接待韓國桂山工業高中來訪 深化臺韓技職教育與文化交流：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=70BA400B9C9388AF
+- 2026-11-27 聯醫陽明院區－陽明院區護理科以「降低7A住院病人跌倒率」為主題、榮獲2026年TCIA臺灣持續改善競賽「銅塔獎」：https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=4D8BBA3E76A3BEB8
+- 2026-11-27 協助宣導2026臺北客莊音樂影像故事：https://tct.gov.taipei/News_Content.aspx?n=23C6BC73B4B4A956&sms=D8777A06F25F993F&s=70AD55E174A4EED6
+- 2026-11-27 「115年桃園市中小企業智慧製造補助計畫」12/10、12/17辦理線上說明會：https://edb.tycg.gov.tw/News_Content.aspx?n=3749&s=1999029
+- 2026-11-27 古亭國中-古亭國中樂齡學堂進駐「拾光亭」 樂齡學員歡喜結業：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=213206C9DE572EA2
+- 2026-11-27 私立育達高中-育達高中僑生參與「2026醒吾國際文化交流日」拓展國際視野與升學藍圖：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=0B49304737A7ADF9
+- 2026-11-27 中山國小-中山國小攜手ACC圓通學校 馬達加斯加學童跨海交流：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=BC9F60B7D25D2A12
+- 2026-11-27 大安高工-韓國全國技能競賽績優學校參訪大安高工 深化臺韓技職教育交流：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=404A8323CD9A19C5
+- 2026-11-27 國語實小-Lumos~國語實小點亮一盞燈，帶領孩子看見「國際與和平」的光影：https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=58BEB1328F89BD1A
+- 2026-11-27 活動訊息-《我們在一起了，說自家的故事⋯⋯》音樂會12/20登陸北藝：https://police.gov.taipei/News_Content.aspx?n=F8C884B8047C6077&sms=9D72E82EC16F3E64&s=459F4970B961401F
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
